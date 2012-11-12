@@ -1,0 +1,2871 @@
+{
+	"folder_history":
+	[
+		"/home/tgilbert/Projets/backr",
+		"/home/tgilbert/Projets/atixnet/sgp",
+		"/home/tgilbert/Projets/atixnet/sgp/apps",
+		"/home/tgilbert/Projets/noname-airsoft",
+		"/home/tgilbert/Projets/law-airsoft",
+		"/home/tgilbert/Projets/ffst",
+		"/home/tgilbert/Projets/002671101",
+		"/home/tgilbert/Projets/tgprojets",
+		"/home/tgilbert/Projets/dev-sans-bouger",
+		"/home/tgilbert/Projets/noname-prod",
+		"/home/tgilbert/Projets/hexagone-airsoft",
+		"/home/tgilbert/Projets/abuledu-ent",
+		"/home/tgilbert/Projets/appNode",
+		"/home/tgilbert/Projets/myFirstApp",
+		"/home/tgilbert/Projets/seekube",
+		"/home/tgilbert/Projets/photos-sans-bouger",
+		"/home/tgilbert/Projets/mobile-ct",
+		"/home/tgilbert/Projets/ffst-mobile",
+		"/home/tgilbert/Projets/ffst/apps",
+		"/home/tgilbert/Projets/abuledu-log",
+		"/home/tgilbert/Projets/mesphotos-sans-bouger",
+		"/home/tgilbert/Projets/manger-sans-bouger",
+		"/home/tgilbert/Projets/tgprojets/web",
+		"/home/tgilbert/Projets/PhoneGap",
+		"/home/tgilbert/Projets/notaire-nath",
+		"/home/tgilbert/Projets/tgprojets-mobile",
+		"/home/tgilbert/Projets/cmp-widgets-js",
+		"/home/tgilbert/Projets/epargne-solidaire"
+	],
+	"last_window_id": 92,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"getDate",
+						"getDateMedical"
+					],
+					[
+						"send",
+						"sendMailContact"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"html",
+						"html_entity_decode"
+					],
+					[
+						"oP",
+						"oPayment"
+					],
+					[
+						"nCateD",
+						"nCateDC"
+					],
+					[
+						"nCA",
+						"nCate2D"
+					],
+					[
+						"nCa",
+						"nCate4D"
+					],
+					[
+						"createLice",
+						"createLicenceUser"
+					],
+					[
+						"setT",
+						"setTypeLicence"
+					],
+					[
+						"nTypeLicA",
+						"nTypeLicAtt"
+					],
+					[
+						"nTypeLicM",
+						"nTypeLicMonJunior"
+					],
+					[
+						"text-",
+						"text-decoration"
+					],
+					[
+						"strto",
+						"strtotime"
+					],
+					[
+						"Yea",
+						"YearStart"
+					],
+					[
+						"Date",
+						"DateSaisie"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"mo",
+						"mobile"
+					],
+					[
+						"de",
+						"debug"
+					],
+					[
+						"re",
+						"refresh"
+					],
+					[
+						"padd",
+						"padding-right"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"is_n",
+						"is_null"
+					],
+					[
+						"tournoi",
+						"tournoi-online-3"
+					],
+					[
+						"getA",
+						"getAmountAvailable"
+					],
+					[
+						"tbl_",
+						"tbl_tournament_player"
+					],
+					[
+						"padding-",
+						"padding-bottom"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"tbl_credi",
+						"tbl_credit_move_profil"
+					],
+					[
+						"aVali",
+						"aValidatorPlayer"
+					],
+					[
+						"sf",
+						"sfGuardUser"
+					],
+					[
+						"dir",
+						"DIRECTORY_SEPARATOR"
+					],
+					[
+						"ob",
+						"object"
+					],
+					[
+						"psFil",
+						"psFileName"
+					],
+					[
+						"data",
+						"data-url"
+					],
+					[
+						"soc",
+						"societeId"
+					],
+					[
+						"oPor",
+						"oPortfolio"
+					],
+					[
+						"fun",
+						"function"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"",
+						"Package Control: Enable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"upp",
+						"Convert Case: Upper Case"
+					],
+					[
+						"low",
+						"Convert Case: Lower Case"
+					],
+					[
+						"align",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"white",
+						"WordHighlight: Toggle Enabled"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"word",
+						"WordHighlight: Toggle Enabled"
+					],
+					[
+						"toggle",
+						"Word Wrap: Toggle"
+					],
+					[
+						"ctag",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"sni",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Preferences: Alignment File Settings – Default"
+					],
+					[
+						"repos",
+						"Package Control: Add Repository"
+					],
+					[
+						"Packa",
+						"Package Control: Add Repository"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					]
+				],
+				"width": 579.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_list_actions.php",
+				"/home/tgilbert/Projets/ffst/config/deploy.rb",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/ListShowSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/templates/ListShowSuccess.php",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_licenceoldForm.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/config/generator.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/templates/_image_profil.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/config/generator.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_image_profil.php",
+				"/home/tgilbert/Projets/ffst/web/css/admin.css",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_licenceForm.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/licence.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/templates/layout.php",
+				"/home/tgilbert/Projets/ffst/data/patch/03-params.sql",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/printLicence.class.php",
+				"/home/tgilbert/Projets/ffst/config/doctrine/schema.yml",
+				"/home/tgilbert/Projets/ffst/lib/model/doctrine/tbl_profil.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_date_valide.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/myUser.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/config/app.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/myGenerique.class.php",
+				"/home/tgilbert/Projets/ffst-mobile/js/ffst.js",
+				"/home/tgilbert/Projets/ffst/cache/frontend/dev/modules/autoLicence/templates/_list.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_list.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/templates/_checkmedical.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_checkmedical.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_check_date.php",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_paramsForm.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/tbl_params/config/generator.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/tbl_params/templates/_label_code.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/tbl_params/config/security.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/params/actions/actions.class.php",
+				"/home/tgilbert/Projets/ffst/lib/migration/doctrine/1349773561_version2.php",
+				"/home/tgilbert/Projets/ffst/lib/migration/doctrine/1349773714_version3.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/ffstTCPDF.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/form/param.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/initParam.class.php",
+				"/home/tgilbert/Projets/ffst/web/css/formulaire_params_certificat.css",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/params/templates/certificatSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/form/certificat.class.php",
+				"/home/tgilbert/Projets/ffst/web/data/params_certificat.ini",
+				"/home/tgilbert/Projets/ffst/web/data/params_certificat.txt",
+				"/home/tgilbert/Projets/ffst/install.sh",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_clubForm.class.php",
+				"/home/tgilbert/Projets/ffst/lib/model/doctrine/tbl_licence.class.php",
+				"/home/tgilbert/Projets/ffst/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/form/sfFormDoctrine.class.php",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/BaseFormDoctrine.class.php",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/base/Basetbl_licenceForm.class.php",
+				"/home/tgilbert/Projets/law-airsoft/apps/frontend/modules/commande/templates/_factureclient.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/regulation/actions/actions.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/bordereau/templates/_contactMail.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/bordereau/actions/actions.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/regulation/templates/_contactMail.php",
+				"/home/tgilbert/Projets/tgprojets/apps/frontend/modules/main/actions/actions.class.php",
+				"/home/tgilbert/Projets/tgprojets/apps/frontend/modules/main/templates/testSendMailSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/main/templates/testSendMailSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/main/actions/actions.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/config/factories.yml",
+				"/home/tgilbert/Projets/tgprojets/apps/frontend/config/factories.yml",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_mandatForm.class.php",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_comiteForm.class.php",
+				"/home/tgilbert/Projets/ffst/config/deploy.rb.prod.dist",
+				"/home/tgilbert/Projets/ffst/config/deploy.rb.sandbox.dist",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_foreign.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/templates/_foreign.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/templates/_profil_exist.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_checkfamilly.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/comite/config/security.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/comite/actions/actions.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/chequeSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/comite/templates/mandatSuccess.php",
+				"/home/tgilbert/Projets/ffst/lib/model/doctrine/tbl_licenceTable.class.php",
+				"/home/tgilbert/Projets/ffst/lib/model/doctrine/tbl_mandatTable.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/comite/templates/_poste.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/comite/config/generator.yml",
+				"/home/tgilbert/Projets/ffst/lib/model/doctrine/tbl_profilTable.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/comite/templates/_nb_mandat.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/comite/templates/_licence.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/comite/templates/_licence_valide.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/config/routing.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/actions/actions.class.php",
+				"/home/tgilbert/Projets/ffst/lib/model/doctrine/tbl_position.class.php",
+				"/home/tgilbert/Projets/ffst/lib/model/doctrine/tbl_positionTable.class.php",
+				"/home/tgilbert/Projets/ffst/data/patch/02-position.sql",
+				"/home/tgilbert/Projets/ffst/web/css/main.css",
+				"/home/tgilbert/Projets/ffst/web/css/print.css",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/tracability/config/generator.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/regulation/config/generator.yml",
+				"/home/tgilbert/Projets/ffst/web/css/formulaire_connexion.css",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/main/config/security.yml",
+				"/home/tgilbert/Projets/ffst/lib/vendor/symfony/lib/generator/sfModelGeneratorConfiguration.class.php",
+				"/home/tgilbert/Projets/ffst/cache/frontend/dev/modules/autoLicence/lib/BaseLicenceGeneratorConfiguration.class.php",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_saisonForm.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/main/templates/saisonSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/main/templates/closeSaisonSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/main/templates/endSaisonSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/mobile/actions/actions.class.php",
+				"/home/tgilbert/Projets/ffst-mobile/css/my.css",
+				"/home/tgilbert/Projets/ffst-mobile/index.html",
+				"/home/tgilbert/Projets/ffst/test/functional/frontend/bordereauActionsTest.php",
+				"/home/tgilbert/Projets/ffst/data/fixtures/prod.yml",
+				"/home/tgilbert/Projets/ffst/data/fixtures/fixtures.yml",
+				"/home/tgilbert/Projets/ffst/test/fixtures/sfGuard.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/bordereau/templates/_list_td_actions.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/bordereau/templates/ListShowSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/bordereau/templates/ListPaymentSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/club/templates/_profil_exist.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/club/templates/_generate_password.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/club/templates/ListRegulationSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/saisieSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_profil_exist.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/templates/saisieSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/ligue/templates/_profil_exist.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/ligue/templates/_generate_password.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/sfGuardUser/templates/editpasswordSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/sfGuardUser/actions/actions.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/actions/actions.class.php",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_paymentForm.class.php",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_ligueForm.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/category/config/generator.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/typelicence/config/generator.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/avoir/config/generator.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/bordereau/config/generator.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_list_header.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/club/actions/actions.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_displayBordereau.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/sfGuardGroup/config/generator.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/sfGuardPermission/config/generator.yml"
+			],
+			"find":
+			{
+				"height": 60.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"*.php",
+					"*.yml",
+					"*.php",
+					"*.css",
+					"*.php",
+					"*.css",
+					"*.php",
+					"*.css",
+					"",
+					"/home/tgilbert/Projets/backr/apps/frontend",
+					"/home/tgilbert/Projets/backr/",
+					"/home/tgilbert/Projets/backr/lib/model/",
+					"/home/tgilbert/Projets/backr/apps/",
+					"/home/tgilbert/Projets/backr/apps/frontend/",
+					"/home/tgilbert/Projets/backr/",
+					"/home/tgilbert/Projets/hexagone-airsoft/apps",
+					"/home/tgilbert/Projets/backr/apps",
+					"/home/tgilbert/Projets/backr/lib/model",
+					"/home/tgilbert/Projets/backr/lib/filter",
+					"/home/tgilbert/Projets/backr/lib/form",
+					"/home/tgilbert/Projets/backr/lib",
+					"/home/tgilbert/Projets/backr/lib/form",
+					"*.css",
+					"*.yml",
+					"",
+					"/home/tgilbert/Projets/backr/apps/",
+					"/home/tgilbert/Projets/backr/apps/frontend",
+					"",
+					"-cache",
+					"",
+					"/home/tgilbert/Projets/backr/lib/vendor/symfony",
+					"",
+					"*.css",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"format_date",
+					"generateThumbnailSetNewFilename",
+					"image",
+					"logo",
+					"sendM",
+					"years",
+					"console",
+					"null",
+					"is_familly",
+					"defaultsWidget",
+					"$pays",
+					"is_familly",
+					"orderBy",
+					"select",
+					"format_date",
+					"notice",
+					"error",
+					"document",
+					"buildValidator",
+					"licenceGeneratorConfiguration",
+					"getForm",
+					"configuration",
+					"();\n",
+					"Mettre à jour et payé",
+					"payé",
+					"MAJ et payé",
+					"list_yearlicence",
+					"licence/displayBordereau",
+					"getLastExist",
+					"fetchOne",
+					"list_view_city",
+					"delay",
+					"show",
+					"createBordereau",
+					"                <?",
+					"html_entity_decode",
+					"findBySql",
+					"post",
+					"club",
+					";\n",
+					"findPaymentClub",
+					"getDateLicence",
+					"getLicence",
+					"old",
+					"nIdCode",
+					"type_licence",
+					"sb_404",
+					"findBySql",
+					"'ATT'",
+					"ATT",
+					"\"MON\"",
+					"checkTransfert",
+					"sfWidgetFormDoctrineJQueryAutocompleter",
+					"form",
+					"Output",
+					"sfWidgetFormDoctrineJQueryAutocompleter",
+					"buildQuery",
+					"foreach",
+					"club",
+					"tbl_club",
+					"sb_connexion_login",
+					"form",
+					"\n  ",
+					";\n",
+					"sf_admin_actions",
+					"bNewUser",
+					"          $",
+					"id_profil",
+					"category",
+					"id_categ",
+					"id_affectation",
+					"error",
+					"notice",
+					"id_user",
+					"YearStart",
+					"contenant_center",
+					"sb_notice",
+					"sb_actions",
+					"sb_icone_annuler",
+					"sb_icone_retour",
+					"sb_icone_display",
+					"sb_icone_telecharger",
+					"sb_connexion_valider",
+					"sb_bouton_submit",
+					"sb_souscontent",
+					"box-shadow",
+					" \n",
+					"        $",
+					"font",
+					"$pdf",
+					"matches",
+					"oTypeLicence",
+					"tbl_familly",
+					"debug",
+					"fail",
+					"sf_admin_bar",
+					"sf_admin_content",
+					"sf_admin_header",
+					";\n",
+					"ul",
+					"hasCre",
+					"getDateLicence",
+					"groupB",
+					"();\n",
+					"border-radius",
+					"sfContext",
+					"sfContext::getInstance()->getUser()->getGuardUser()->isClub()",
+					"sfContext",
+					"getDateLicence",
+					"addPayment",
+					"noname",
+					"fetch",
+					";\n",
+					"-webkit-border-radius",
+					"-webkit-box-shadow",
+					"bFamilly",
+					"TypeLi",
+					"$this->$",
+					"$this->",
+					"$primaryKeyValue == null",
+					"$primaryKeyValue === null",
+					"sfDoctrineUniqueValidator",
+					"ville",
+					"3",
+					"hover",
+					"sfValidatorDoctrineUnique",
+					"processValues",
+					"uplo"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"tbl_ligue",
+					"$this->pdf",
+					"$this->bClub",
+					"083a99",
+					"010066",
+					". ",
+					"images/chips",
+					"../images/chips/",
+					"stake",
+					"stak",
+					"backr",
+					"tournament/mincard",
+					"player/mincard",
+					"/images",
+					"/images/",
+					"\"/images/",
+					"\"",
+					"images/camera_skins.png",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"sfformdoctrine",
+						"ffst/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/form/sfFormDoctrine.class.php"
+					],
+					[
+						"baseformdoctrine",
+						"ffst/lib/form/doctrine/BaseFormDoctrine.class.php"
+					],
+					[
+						"sfmodelgeneratorconfiguration",
+						"ffst/lib/vendor/symfony/lib/generator/sfModelGeneratorConfiguration.class.php"
+					],
+					[
+						"licencegeneratorconfiguration",
+						"ffst/cache/frontend/dev/modules/autoLicence/lib/BaseLicenceGeneratorConfiguration.class.php"
+					],
+					[
+						"sfbasicsecurityuser",
+						"ffst/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php"
+					],
+					[
+						"sfguardsecurityuser",
+						"ffst/plugins/sfDoctrineGuardPlugin/lib/user/sfGuardSecurityUser.class.php"
+					],
+					[
+						"sfsto",
+						"ffst/lib/vendor/symfony/lib/storage/sfStorage.class.php"
+					],
+					[
+						"sfsess",
+						"ffst/lib/vendor/symfony/lib/storage/sfSessionStorage.class.php"
+					],
+					[
+						"tcpdf",
+						"ffst/plugins/sfTCPDFPlugin/lib/tcpdf/tcpdf.php"
+					],
+					[
+						"sfwidgetformtextarea",
+						"ffst/lib/vendor/symfony/lib/widget/sfWidgetFormTextarea.class.php"
+					],
+					[
+						"sfvalidatorstring",
+						"ffst/lib/vendor/symfony/lib/validator/sfValidatorString.class.php"
+					],
+					[
+						"sfwidgetformdoctrinechoice",
+						"ffst/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/widget/sfWidgetFormDoctrineChoice.class.php"
+					],
+					[
+						"sfwidgetformjqueryautocompleter",
+						"ffst/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormJQueryAutocompleter.class.php"
+					],
+					[
+						"sfwidgetformdoctrinejqueryautocompleter",
+						"ffst/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormDoctrineJQueryAutocompleter.class.php"
+					],
+					[
+						"sft",
+						"ffst/plugins/sfTCPDFPlugin/lib/sfTCPDF.class.php"
+					],
+					[
+						"sfvalidatorin",
+						"ffst/lib/vendor/symfony/lib/validator/sfValidatorInteger.class.php"
+					],
+					[
+						"sfdoctrineunique",
+						"lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/validator/sfValidatorDoctrineUnique.class.php"
+					],
+					[
+						"pluginsfguarduser",
+						"ffst/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardUser.class.php"
+					],
+					[
+						"sfguarduser",
+						"ffst/lib/model/doctrine/sfDoctrineGuardPlugin/sfGuardUser.class.php"
+					],
+					[
+						"sfdoctrinerecord",
+						"ffst/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/record/sfDoctrineRecord.class.php"
+					],
+					[
+						"sfformobject",
+						"ffst/lib/vendor/symfony/lib/form/addon/sfFormObject.class.php"
+					],
+					[
+						"basetbl_ligueform",
+						"ffst/lib/form/doctrine/base/Basetbl_ligueForm.class.php"
+					],
+					[
+						"devoireleveform",
+						"abuledu-ent/apps/ent/lib/form/devoirEleveForm.class.php"
+					],
+					[
+						"basetbl_player_imagesform",
+						"lib/form/doctrine/base/Basetbl_player_imagesForm.class.php"
+					],
+					[
+						"basetbl_profilformfilter",
+						"lib/filter/doctrine/base/Basetbl_profilFormFilter.class.php"
+					],
+					[
+						"_edittour",
+						"backr/apps/frontend/modules/myaccount/templates/_editTournament.php"
+					],
+					[
+						"sfaction",
+						"backr/lib/vendor/symfony/lib/action/sfAction.class.php"
+					],
+					[
+						"sfactions",
+						"backr/lib/vendor/symfony/lib/action/sfActions.class.php"
+					],
+					[
+						"forward",
+						"backr/lib/vendor/symfony/lib/exception/sfForwardException.class.php"
+					],
+					[
+						"basetbl_tournament_playerformfilter",
+						"backr/lib/filter/doctrine/base/Basetbl_tournament_playerFormFilter.class.php"
+					],
+					[
+						"sfformfilterdoctrine",
+						"backr/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/form/sfFormFilterDoctrine.class.php"
+					],
+					[
+						"baseformfilterdoctrine",
+						"backr/lib/filter/doctrine/BaseFormFilterDoctrine.class.php"
+					],
+					[
+						"stakeplay",
+						"apps/frontend/modules/tournament/templates/_stakeplayer.php"
+					],
+					[
+						"sfform",
+						"backr/lib/vendor/symfony/lib/form/sfForm.class.php"
+					],
+					[
+						"schema",
+						"backr/plugins/sfDoctrineGuardPlugin/config/doctrine/schema.yml"
+					],
+					[
+						"myuser",
+						"apps/frontend/lib/myUser.class.php"
+					],
+					[
+						"stakepl",
+						"apps/frontend/modules/tournament/templates/_stakeplayer.php"
+					],
+					[
+						"myu",
+						"apps/frontend/lib/myUser.class.php"
+					],
+					[
+						"sfbrowserbase",
+						"lib/vendor/symfony/lib/util/sfBrowserBase.class.php"
+					],
+					[
+						"sfbrow",
+						"lib/vendor/symfony/lib/util/sfBrowser.class.php"
+					],
+					[
+						"sfwidgetformchoice",
+						"backr/lib/vendor/symfony/lib/widget/sfWidgetFormChoice.class.php"
+					],
+					[
+						"sfvalidatedfile",
+						"backr/lib/vendor/symfony/lib/validator/sfValidatedFile.class.php"
+					],
+					[
+						"sfwidgetformi18ndate",
+						"backr/lib/vendor/symfony/lib/widget/i18n/sfWidgetFormI18nDate.class.php"
+					],
+					[
+						"sfwidgetformi18ndatetime",
+						"backr/lib/vendor/symfony/lib/widget/i18n/sfWidgetFormI18nDateTime.class.php"
+					],
+					[
+						"sfimage",
+						"mesphotos-sans-bouger/plugins/sfMultipleAjaxUploadGalleryPlugin/lib/sfImage.class.php"
+					],
+					[
+						"layout",
+						"backr/apps/backend/templates/layout.php"
+					],
+					[
+						"layou",
+						"backr/apps/frontend/templates/layout.php"
+					],
+					[
+						"sftwigextension",
+						"002671101/plugins/sfTwigPlugin/lib/vendor/Twig/doc/extensions.rst"
+					],
+					[
+						"settemplate",
+						"backr/plugins/sfTwigPlugin/lib/vendor/Twig/doc/templates.rst"
+					],
+					[
+						"startup",
+						"website/var/config/startup.php"
+					],
+					[
+						"mygene",
+						"lib/myGenerique.class.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 306.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"call",
+						"callback"
+					],
+					[
+						"min-",
+						"min-width"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"exi",
+						"existParam"
+					],
+					[
+						"n",
+						"nUser"
+					],
+					[
+						"str_re",
+						"str_replace"
+					],
+					[
+						"for",
+						"foreach"
+					],
+					[
+						"getPa",
+						"getParameter"
+					],
+					[
+						"html",
+						"html_entity_decode"
+					],
+					[
+						"getDate",
+						"getDateMedical"
+					],
+					[
+						"send",
+						"sendMailContact"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"oP",
+						"oPayment"
+					],
+					[
+						"nCateD",
+						"nCateDC"
+					],
+					[
+						"nCA",
+						"nCate2D"
+					],
+					[
+						"nCa",
+						"nCate4D"
+					],
+					[
+						"createLice",
+						"createLicenceUser"
+					],
+					[
+						"setT",
+						"setTypeLicence"
+					],
+					[
+						"nTypeLicA",
+						"nTypeLicAtt"
+					],
+					[
+						"nTypeLicM",
+						"nTypeLicMonJunior"
+					],
+					[
+						"text-",
+						"text-decoration"
+					],
+					[
+						"strto",
+						"strtotime"
+					],
+					[
+						"Yea",
+						"YearStart"
+					],
+					[
+						"Date",
+						"DateSaisie"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"mo",
+						"mobile"
+					],
+					[
+						"de",
+						"debug"
+					],
+					[
+						"re",
+						"refresh"
+					],
+					[
+						"padd",
+						"padding-right"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"is_n",
+						"is_null"
+					],
+					[
+						"tournoi",
+						"tournoi-online-3"
+					],
+					[
+						"getA",
+						"getAmountAvailable"
+					],
+					[
+						"tbl_",
+						"tbl_tournament_player"
+					],
+					[
+						"padding-",
+						"padding-bottom"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"tbl_credi",
+						"tbl_credit_move_profil"
+					],
+					[
+						"aVali",
+						"aValidatorPlayer"
+					],
+					[
+						"sf",
+						"sfGuardUser"
+					],
+					[
+						"dir",
+						"DIRECTORY_SEPARATOR"
+					],
+					[
+						"ob",
+						"object"
+					],
+					[
+						"psFil",
+						"psFileName"
+					],
+					[
+						"data",
+						"data-url"
+					],
+					[
+						"soc",
+						"societeId"
+					],
+					[
+						"oPor",
+						"oPortfolio"
+					],
+					[
+						"fun",
+						"function"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "atixnet/sgp/test/functional/admin/svgActionsTest.php",
+					"settings":
+					{
+						"buffer_size": 6775,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "atixnet/sgp/config/databases.yml",
+					"settings":
+					{
+						"buffer_size": 315,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "atixnet/sgp/apps/admin/lib/graphSvg.class.php",
+					"settings":
+					{
+						"buffer_size": 14820,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "atixnet/sgp/apps/admin/modules/svg/templates/graphRecetteSuccess.php",
+					"settings":
+					{
+						"buffer_size": 3696,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "atixnet/sgp/apps/admin/modules/svg/templates/graphBarSuccess.php",
+					"settings":
+					{
+						"buffer_size": 3977,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "atixnet/sgp/apps/admin/modules/svg/templates/graphBarMensualSuccess.php",
+					"settings":
+					{
+						"buffer_size": 3054,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "atixnet/sgp/web/js/generateGraph.js",
+					"settings":
+					{
+						"buffer_size": 13598,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "atixnet/sgp/apps/admin/modules/svg/templates/graphLineSuccess.php",
+					"settings":
+					{
+						"buffer_size": 3479,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"upp",
+						"Convert Case: Upper Case"
+					],
+					[
+						"low",
+						"Convert Case: Lower Case"
+					],
+					[
+						"align",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"white",
+						"WordHighlight: Toggle Enabled"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"word",
+						"WordHighlight: Toggle Enabled"
+					],
+					[
+						"toggle",
+						"Word Wrap: Toggle"
+					],
+					[
+						"ctag",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"sni",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Preferences: Alignment File Settings – Default"
+					],
+					[
+						"repos",
+						"Package Control: Add Repository"
+					],
+					[
+						"Packa",
+						"Package Control: Add Repository"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					]
+				],
+				"width": 579.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/graphBarMensualSuccess.php",
+				"/home/tgilbert/Projets/atixnet/sgp/web/css/formulaire_graph.css",
+				"/home/tgilbert/Projets/atixnet/sgp/web/css/farbtastic.css",
+				"/home/tgilbert/Projets/atixnet/sgp/web/js/farbtastic.js",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_graphique_invest.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_graphique_recettes.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/lib/graphSvg.class.php",
+				"/home/tgilbert/Projets/atixnet/sgp/data/patch/04-migrate_marche_script.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_graphique_type_line.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_graphique_tresorerie.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_legend.php",
+				"/home/tgilbert/Projets/atixnet/sgp/web/js/generateGraph.js",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/actions/actions.class.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_abscisse.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_ordered.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_head.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/graphRecetteSuccess.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/graphLineSuccess.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/indexSuccess.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_tableau.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/lib/generateSvg.class.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/tableauSuccess.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/config/settings.yml",
+				"/home/tgilbert/Projets/atixnet/sgp/config/databases.yml",
+				"/home/tgilbert/Projets/atixnet/sgp/data/patch/02-typegraph.sql",
+				"/home/tgilbert/Projets/atixnet/sgp/lib/model/doctrine/ParamGraphTable.class.php",
+				"/home/tgilbert/Projets/atixnet/sgp/lib/model/doctrine/ParamTableauTable.class.php",
+				"/home/tgilbert/Projets/atixnet/sgp/config/doctrine/schema.yml",
+				"/home/tgilbert/Projets/atixnet/sgp/lib/migration/doctrine/1350564122_version3.php",
+				"/home/tgilbert/Projets/atixnet/sgp/lib/migration/doctrine/1350564123_version4.php",
+				"/home/tgilbert/Projets/atixnet/sgp/lib/model/doctrine/ParamTableau.class.php",
+				"/home/tgilbert/Projets/atixnet/sgp/web/css/formulaire_tableau.css",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/lib/form/paramSvgTableauForm.class.php",
+				"/home/tgilbert/Projets/atixnet/sgp/lib/form/doctrine/ParamTableauForm.class.php",
+				"/home/tgilbert/Projets/backr/apps/backend/modules/news/actions/actions.class.php",
+				"/home/tgilbert/Projets/noname-airsoft/apps/frontend/modules/sfGuardAuth/actions/actions.class.php",
+				"/home/tgilbert/Projets/atixnet/sgp/lib/model/doctrine/base/BaseParamTableau.class.php",
+				"/home/tgilbert/Projets/atixnet/sgp/plugins/sfPhpExcelPlugin/lib/PHPExcel/PHPExcel/IOFactory.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_list_actions.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/tools/exportLicence.class.php",
+				"/home/tgilbert/Projets/atixnet/sgp/plugins/sfDoctrineGuardPlugin/lib/user/sfGuardSecurityUser.class.php",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_clubForm.class.php",
+				"/home/tgilbert/Projets/atixnet/sgp/lib/form/doctrine/base/BaseParamTableauForm.class.php",
+				"/home/tgilbert/Projets/atixnet/sgp/lib/form/UploadCsvForm.class.php",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_mandatForm.class.php",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_saisonForm.class.php",
+				"/home/tgilbert/Projets/ffst/config/deploy.rb",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/ListShowSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/templates/ListShowSuccess.php",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_licenceoldForm.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/config/generator.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/templates/_image_profil.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/config/generator.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_image_profil.php",
+				"/home/tgilbert/Projets/ffst/web/css/admin.css",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_licenceForm.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/licence.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/templates/layout.php",
+				"/home/tgilbert/Projets/ffst/data/patch/03-params.sql",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/printLicence.class.php",
+				"/home/tgilbert/Projets/ffst/config/doctrine/schema.yml",
+				"/home/tgilbert/Projets/ffst/lib/model/doctrine/tbl_profil.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_date_valide.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/myUser.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/config/app.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/myGenerique.class.php",
+				"/home/tgilbert/Projets/ffst-mobile/js/ffst.js",
+				"/home/tgilbert/Projets/ffst/cache/frontend/dev/modules/autoLicence/templates/_list.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_list.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/templates/_checkmedical.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_checkmedical.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_check_date.php",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_paramsForm.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/tbl_params/config/generator.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/tbl_params/templates/_label_code.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/tbl_params/config/security.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/params/actions/actions.class.php",
+				"/home/tgilbert/Projets/ffst/lib/migration/doctrine/1349773561_version2.php",
+				"/home/tgilbert/Projets/ffst/lib/migration/doctrine/1349773714_version3.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/ffstTCPDF.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/form/param.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/initParam.class.php",
+				"/home/tgilbert/Projets/ffst/web/css/formulaire_params_certificat.css",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/params/templates/certificatSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/lib/form/certificat.class.php",
+				"/home/tgilbert/Projets/ffst/web/data/params_certificat.ini",
+				"/home/tgilbert/Projets/ffst/web/data/params_certificat.txt",
+				"/home/tgilbert/Projets/ffst/install.sh",
+				"/home/tgilbert/Projets/ffst/lib/model/doctrine/tbl_licence.class.php",
+				"/home/tgilbert/Projets/ffst/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/form/sfFormDoctrine.class.php",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/BaseFormDoctrine.class.php",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/base/Basetbl_licenceForm.class.php",
+				"/home/tgilbert/Projets/law-airsoft/apps/frontend/modules/commande/templates/_factureclient.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/regulation/actions/actions.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/bordereau/templates/_contactMail.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/bordereau/actions/actions.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/regulation/templates/_contactMail.php",
+				"/home/tgilbert/Projets/tgprojets/apps/frontend/modules/main/actions/actions.class.php",
+				"/home/tgilbert/Projets/tgprojets/apps/frontend/modules/main/templates/testSendMailSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/main/templates/testSendMailSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/main/actions/actions.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/config/factories.yml",
+				"/home/tgilbert/Projets/tgprojets/apps/frontend/config/factories.yml",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_comiteForm.class.php",
+				"/home/tgilbert/Projets/ffst/config/deploy.rb.prod.dist",
+				"/home/tgilbert/Projets/ffst/config/deploy.rb.sandbox.dist",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_foreign.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/templates/_foreign.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/templates/_profil_exist.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_checkfamilly.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/comite/config/security.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/comite/actions/actions.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/chequeSuccess.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/comite/templates/mandatSuccess.php",
+				"/home/tgilbert/Projets/ffst/lib/model/doctrine/tbl_licenceTable.class.php",
+				"/home/tgilbert/Projets/ffst/lib/model/doctrine/tbl_mandatTable.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/comite/templates/_poste.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/comite/config/generator.yml",
+				"/home/tgilbert/Projets/ffst/lib/model/doctrine/tbl_profilTable.class.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/comite/templates/_nb_mandat.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/comite/templates/_licence.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/comite/templates/_licence_valide.php",
+				"/home/tgilbert/Projets/ffst/apps/frontend/config/routing.yml",
+				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/actions/actions.class.php",
+				"/home/tgilbert/Projets/ffst/lib/model/doctrine/tbl_position.class.php",
+				"/home/tgilbert/Projets/ffst/lib/model/doctrine/tbl_positionTable.class.php",
+				"/home/tgilbert/Projets/ffst/data/patch/02-position.sql",
+				"/home/tgilbert/Projets/ffst/web/css/main.css"
+			],
+			"find":
+			{
+				"height": 62.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"*.php, *.js",
+					"*.php",
+					"*.yml",
+					"*.php",
+					"*.css",
+					"*.php",
+					"*.css",
+					"*.php",
+					"*.css",
+					"",
+					"/home/tgilbert/Projets/backr/apps/frontend",
+					"/home/tgilbert/Projets/backr/",
+					"/home/tgilbert/Projets/backr/lib/model/",
+					"/home/tgilbert/Projets/backr/apps/",
+					"/home/tgilbert/Projets/backr/apps/frontend/",
+					"/home/tgilbert/Projets/backr/",
+					"/home/tgilbert/Projets/hexagone-airsoft/apps",
+					"/home/tgilbert/Projets/backr/apps",
+					"/home/tgilbert/Projets/backr/lib/model",
+					"/home/tgilbert/Projets/backr/lib/filter",
+					"/home/tgilbert/Projets/backr/lib/form",
+					"/home/tgilbert/Projets/backr/lib",
+					"/home/tgilbert/Projets/backr/lib/form",
+					"*.css",
+					"*.yml",
+					"",
+					"/home/tgilbert/Projets/backr/apps/",
+					"/home/tgilbert/Projets/backr/apps/frontend",
+					"",
+					"-cache",
+					"",
+					"/home/tgilbert/Projets/backr/lib/vendor/symfony",
+					"",
+					"*.css",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"colorwell-selected",
+					"color_",
+					"createFieldCompBar",
+					"createIndicBar",
+					"abscisse_lib_",
+					"initAbscisse",
+					"createOrdered",
+					"createAbscisse",
+					"nbmonth",
+					"month",
+					"createFieldBar",
+					"key",
+					"color",
+					"couleur",
+					"$indicateurs",
+					"$valeurs_engage['couleur']",
+					"couleur_point",
+					"b0d21a",
+					"valeurs_budget",
+					"aAbscisse",
+					"valeurs_prevision",
+					"indicateurs",
+					"valeurs_budget",
+					"b5c9cf",
+					"40c5ef",
+					"legende_couleurs",
+					"valeurs_engage",
+					"indicateurs",
+					"valeurs_mandate",
+					"valeur_text",
+					"$ordonnees",
+					"ordonnees",
+					"colorDefaultLine",
+					"nbLine",
+					"line_indicateur_default",
+					"valeur_text",
+					"leftJoin",
+					"partial",
+					"fd_1",
+					"police_2",
+					"vert_fonce",
+					"vert_clair",
+					"bordeaux",
+					"rouge",
+					"bleu",
+					"gris",
+					"vert_fonce",
+					"vert_clair",
+					"bordeaux",
+					"rouge",
+					"bleu",
+					"gris",
+					"tbx_valeurs",
+					"PHPExcel_IOFactory",
+					"option",
+					"format_date",
+					"generateThumbnailSetNewFilename",
+					"image",
+					"logo",
+					"sendM",
+					"years",
+					"console",
+					"null",
+					"is_familly",
+					"defaultsWidget",
+					"$pays",
+					"is_familly",
+					"orderBy",
+					"select",
+					"format_date",
+					"notice",
+					"error",
+					"document",
+					"buildValidator",
+					"licenceGeneratorConfiguration",
+					"getForm",
+					"configuration",
+					"();\n",
+					"Mettre à jour et payé",
+					"payé",
+					"MAJ et payé",
+					"list_yearlicence",
+					"licence/displayBordereau",
+					"getLastExist",
+					"fetchOne",
+					"list_view_city",
+					"delay",
+					"show",
+					"createBordereau",
+					"                <?",
+					"html_entity_decode",
+					"findBySql",
+					"post",
+					"club",
+					";\n",
+					"findPaymentClub",
+					"getDateLicence",
+					"getLicence",
+					"old",
+					"nIdCode",
+					"type_licence",
+					"sb_404",
+					"findBySql",
+					"'ATT'",
+					"ATT",
+					"\"MON\"",
+					"checkTransfert",
+					"sfWidgetFormDoctrineJQueryAutocompleter",
+					"form",
+					"Output",
+					"sfWidgetFormDoctrineJQueryAutocompleter",
+					"buildQuery",
+					"foreach",
+					"club",
+					"tbl_club",
+					"sb_connexion_login",
+					"form",
+					"\n  ",
+					";\n",
+					"sf_admin_actions",
+					"bNewUser",
+					"          $",
+					"id_profil",
+					"category",
+					"id_categ",
+					"id_affectation",
+					"error",
+					"notice"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"i",
+					"tbl_ligue",
+					"$this->pdf",
+					"$this->bClub",
+					"083a99",
+					"010066",
+					". ",
+					"images/chips",
+					"../images/chips/",
+					"stake",
+					"stak",
+					"backr",
+					"tournament/mincard",
+					"player/mincard",
+					"/images",
+					"/images/",
+					"\"/images/",
+					"\"",
+					"images/camera_skins.png",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 5,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "atixnet/sgp/test/functional/admin/svgActionsTest.php",
+							"settings":
+							{
+								"buffer_size": 6775,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2040.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "atixnet/sgp/config/databases.yml",
+							"settings":
+							{
+								"buffer_size": 315,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4,
+										4
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/YAML/YAML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "atixnet/sgp/apps/admin/lib/graphSvg.class.php",
+							"settings":
+							{
+								"buffer_size": 14820,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13985,
+										13985
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5129.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "atixnet/sgp/apps/admin/modules/svg/templates/graphRecetteSuccess.php",
+							"settings":
+							{
+								"buffer_size": 3696,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3244,
+										3244
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 612.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "atixnet/sgp/apps/admin/modules/svg/templates/graphBarSuccess.php",
+							"settings":
+							{
+								"buffer_size": 3977,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3472,
+										3472
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 897.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "atixnet/sgp/apps/admin/modules/svg/templates/graphBarMensualSuccess.php",
+							"settings":
+							{
+								"buffer_size": 3054,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2547,
+										2547
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 459.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 6,
+							"file": "atixnet/sgp/web/js/generateGraph.js",
+							"settings":
+							{
+								"buffer_size": 13598,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1077,
+										1077
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 438.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "atixnet/sgp/apps/admin/modules/svg/templates/graphLineSuccess.php",
+							"settings":
+							{
+								"buffer_size": 3479,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2835,
+										2835
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 455.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.490324809951,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,1,0,0,0,0,0,0,0,2960,1050",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"sfguardsecurityuser",
+						"sgp/plugins/sfDoctrineGuardPlugin/lib/user/sfGuardSecurityUser.class.php"
+					],
+					[
+						"exportlicence",
+						"ffst/apps/frontend/lib/tools/exportLicence.class.php"
+					],
+					[
+						"sfformdoctrine",
+						"ffst/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/form/sfFormDoctrine.class.php"
+					],
+					[
+						"baseformdoctrine",
+						"ffst/lib/form/doctrine/BaseFormDoctrine.class.php"
+					],
+					[
+						"sfmodelgeneratorconfiguration",
+						"ffst/lib/vendor/symfony/lib/generator/sfModelGeneratorConfiguration.class.php"
+					],
+					[
+						"licencegeneratorconfiguration",
+						"ffst/cache/frontend/dev/modules/autoLicence/lib/BaseLicenceGeneratorConfiguration.class.php"
+					],
+					[
+						"sfbasicsecurityuser",
+						"ffst/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php"
+					],
+					[
+						"sfsto",
+						"ffst/lib/vendor/symfony/lib/storage/sfStorage.class.php"
+					],
+					[
+						"sfsess",
+						"ffst/lib/vendor/symfony/lib/storage/sfSessionStorage.class.php"
+					],
+					[
+						"tcpdf",
+						"ffst/plugins/sfTCPDFPlugin/lib/tcpdf/tcpdf.php"
+					],
+					[
+						"sfwidgetformtextarea",
+						"ffst/lib/vendor/symfony/lib/widget/sfWidgetFormTextarea.class.php"
+					],
+					[
+						"sfvalidatorstring",
+						"ffst/lib/vendor/symfony/lib/validator/sfValidatorString.class.php"
+					],
+					[
+						"sfwidgetformdoctrinechoice",
+						"ffst/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/widget/sfWidgetFormDoctrineChoice.class.php"
+					],
+					[
+						"sfwidgetformjqueryautocompleter",
+						"ffst/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormJQueryAutocompleter.class.php"
+					],
+					[
+						"sfwidgetformdoctrinejqueryautocompleter",
+						"ffst/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormDoctrineJQueryAutocompleter.class.php"
+					],
+					[
+						"sft",
+						"ffst/plugins/sfTCPDFPlugin/lib/sfTCPDF.class.php"
+					],
+					[
+						"sfvalidatorin",
+						"ffst/lib/vendor/symfony/lib/validator/sfValidatorInteger.class.php"
+					],
+					[
+						"sfdoctrineunique",
+						"lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/validator/sfValidatorDoctrineUnique.class.php"
+					],
+					[
+						"pluginsfguarduser",
+						"ffst/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardUser.class.php"
+					],
+					[
+						"sfguarduser",
+						"ffst/lib/model/doctrine/sfDoctrineGuardPlugin/sfGuardUser.class.php"
+					],
+					[
+						"sfdoctrinerecord",
+						"ffst/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/record/sfDoctrineRecord.class.php"
+					],
+					[
+						"sfformobject",
+						"ffst/lib/vendor/symfony/lib/form/addon/sfFormObject.class.php"
+					],
+					[
+						"basetbl_ligueform",
+						"ffst/lib/form/doctrine/base/Basetbl_ligueForm.class.php"
+					],
+					[
+						"devoireleveform",
+						"abuledu-ent/apps/ent/lib/form/devoirEleveForm.class.php"
+					],
+					[
+						"basetbl_player_imagesform",
+						"lib/form/doctrine/base/Basetbl_player_imagesForm.class.php"
+					],
+					[
+						"basetbl_profilformfilter",
+						"lib/filter/doctrine/base/Basetbl_profilFormFilter.class.php"
+					],
+					[
+						"_edittour",
+						"backr/apps/frontend/modules/myaccount/templates/_editTournament.php"
+					],
+					[
+						"sfaction",
+						"backr/lib/vendor/symfony/lib/action/sfAction.class.php"
+					],
+					[
+						"sfactions",
+						"backr/lib/vendor/symfony/lib/action/sfActions.class.php"
+					],
+					[
+						"forward",
+						"backr/lib/vendor/symfony/lib/exception/sfForwardException.class.php"
+					],
+					[
+						"basetbl_tournament_playerformfilter",
+						"backr/lib/filter/doctrine/base/Basetbl_tournament_playerFormFilter.class.php"
+					],
+					[
+						"sfformfilterdoctrine",
+						"backr/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/form/sfFormFilterDoctrine.class.php"
+					],
+					[
+						"baseformfilterdoctrine",
+						"backr/lib/filter/doctrine/BaseFormFilterDoctrine.class.php"
+					],
+					[
+						"stakeplay",
+						"apps/frontend/modules/tournament/templates/_stakeplayer.php"
+					],
+					[
+						"sfform",
+						"backr/lib/vendor/symfony/lib/form/sfForm.class.php"
+					],
+					[
+						"schema",
+						"backr/plugins/sfDoctrineGuardPlugin/config/doctrine/schema.yml"
+					],
+					[
+						"myuser",
+						"apps/frontend/lib/myUser.class.php"
+					],
+					[
+						"stakepl",
+						"apps/frontend/modules/tournament/templates/_stakeplayer.php"
+					],
+					[
+						"myu",
+						"apps/frontend/lib/myUser.class.php"
+					],
+					[
+						"sfbrowserbase",
+						"lib/vendor/symfony/lib/util/sfBrowserBase.class.php"
+					],
+					[
+						"sfbrow",
+						"lib/vendor/symfony/lib/util/sfBrowser.class.php"
+					],
+					[
+						"sfwidgetformchoice",
+						"backr/lib/vendor/symfony/lib/widget/sfWidgetFormChoice.class.php"
+					],
+					[
+						"sfvalidatedfile",
+						"backr/lib/vendor/symfony/lib/validator/sfValidatedFile.class.php"
+					],
+					[
+						"sfwidgetformi18ndate",
+						"backr/lib/vendor/symfony/lib/widget/i18n/sfWidgetFormI18nDate.class.php"
+					],
+					[
+						"sfwidgetformi18ndatetime",
+						"backr/lib/vendor/symfony/lib/widget/i18n/sfWidgetFormI18nDateTime.class.php"
+					],
+					[
+						"sfimage",
+						"mesphotos-sans-bouger/plugins/sfMultipleAjaxUploadGalleryPlugin/lib/sfImage.class.php"
+					],
+					[
+						"layout",
+						"backr/apps/backend/templates/layout.php"
+					],
+					[
+						"layou",
+						"backr/apps/frontend/templates/layout.php"
+					],
+					[
+						"sftwigextension",
+						"002671101/plugins/sfTwigPlugin/lib/vendor/Twig/doc/extensions.rst"
+					],
+					[
+						"settemplate",
+						"backr/plugins/sfTwigPlugin/lib/vendor/Twig/doc/templates.rst"
+					],
+					[
+						"startup",
+						"website/var/config/startup.php"
+					],
+					[
+						"mygene",
+						"lib/myGenerique.class.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 233.0,
+			"status_bar_visible": true,
+			"window_id": 92,
+			"workspace_name": "/home/tgilbert/Projets/sgp.sublime-project"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/tgilbert/Projets/sgp.sublime-project",
+			"/home/tgilbert/Projets/ffst.sublime-project",
+			"/home/tgilbert/Projets/ffst/config/sgp.sublime-project",
+			"/home/tgilbert/Projets/dev-sans-bouger.sublime-project",
+			"/home/tgilbert/Projets/photos-sans-bouger.sublime-project",
+			"/home/tgilbert/Projets/tgprojets.sublime-project",
+			"/home/tgilbert/Projets/backr.sublime-project",
+			"/home/tgilbert/Projets/abuledu-ent.sublime-project",
+			"/home/tgilbert/Projets/mobilec&t.sublime-project",
+			"/home/tgilbert/Projets/law-airsoft.sublime-project",
+			"/home/tgilbert/Projets/noname-airsoft.sublime-project",
+			"/home/tgilbert/Projets/tgprojets-mobile.sublime-project"
+		]
+	}
+}

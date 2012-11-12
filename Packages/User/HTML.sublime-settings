@@ -1,0 +1,17 @@
+{
+  // Retire les espaces en fin de ligne quand on sauvegarde.
+  // Très pratique pour éviter de "faux" changements dans Git.
+  "trim_trailing_white_space_on_save": true,
+
+  // Ajoute une ligne vide à la fin du fichier si nécessaire.
+  // A nouveau pratique pour éviter de rendre Git triste.
+  "ensure_newline_at_eof_on_save": true,
+
+  // Insère des caractères espaces au lieu des tabulations (\t).
+  // Très pratique pou un code bien homogène et pour le coller
+  // sur un forum sans que ce soit horrible !
+  "translate_tabs_to_spaces": true,
+
+  // Une tabulation correspond à deux espaces.
+  "tab_size": 2
+}

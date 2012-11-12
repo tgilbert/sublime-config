@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": 1352758704,
+	"installed_packages":
+	[
+		"Abacus",
+		"Alignment",
+		"CTags",
+		"CTags for PHP",
+		"jQuery",
+		"Package Control",
+		"Prefixr",
+		"SublimeLinter",
+		"Theme - Soda",
+		"Twig",
+		"Whitespace Corrector",
+		"WordHighlight",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+		"http://sublime.wbond.net/packages.json"
+	]
+}
