@@ -1,0 +1,28 @@
+[
+    {
+        "caption": "Closure Linter: Run Closure Linter",
+        "command": "closure_linter"
+    },
+    {
+        "caption": "Closure Linter: Show Closure Linter Result",
+        "command": "show_closure_linter_result"
+    },
+    {
+        "caption": "Closure Linter: Fix JavaScript Style",
+        "command": "fix_js_style"
+    },
+    {
+        "caption": "Preferences: Closure Linter Settings – Default",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/sublime-closure-linter/sublime-closure-linter.sublime-settings"
+        }
+    },
+    {
+        "caption": "Preferences: Closure Linter Settings – User",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/User/sublime-closure-linter.sublime-settings"
+        }
+    }
+]

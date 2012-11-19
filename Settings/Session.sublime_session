@@ -1118,7 +1118,7 @@
 					"file": "atixnet/sgp/test/functional/admin/svgActionsTest.php",
 					"settings":
 					{
-						"buffer_size": 6775,
+						"buffer_size": 7021,
 						"line_ending": "Unix"
 					}
 				},
@@ -1134,7 +1134,7 @@
 					"file": "atixnet/sgp/apps/admin/lib/graphSvg.class.php",
 					"settings":
 					{
-						"buffer_size": 14820,
+						"buffer_size": 18213,
 						"line_ending": "Unix"
 					}
 				},
@@ -1142,7 +1142,7 @@
 					"file": "atixnet/sgp/apps/admin/modules/svg/templates/graphRecetteSuccess.php",
 					"settings":
 					{
-						"buffer_size": 3696,
+						"buffer_size": 0,
 						"line_ending": "Unix"
 					}
 				},
@@ -1150,7 +1150,7 @@
 					"file": "atixnet/sgp/apps/admin/modules/svg/templates/graphBarSuccess.php",
 					"settings":
 					{
-						"buffer_size": 3977,
+						"buffer_size": 0,
 						"line_ending": "Unix"
 					}
 				},
@@ -1158,7 +1158,7 @@
 					"file": "atixnet/sgp/apps/admin/modules/svg/templates/graphBarMensualSuccess.php",
 					"settings":
 					{
-						"buffer_size": 3054,
+						"buffer_size": 0,
 						"line_ending": "Unix"
 					}
 				},
@@ -1166,15 +1166,18 @@
 					"file": "atixnet/sgp/web/js/generateGraph.js",
 					"settings":
 					{
-						"buffer_size": 13598,
+						"buffer_size": 13283,
 						"line_ending": "Unix"
 					}
 				},
 				{
+					"contents": "",
 					"file": "atixnet/sgp/apps/admin/modules/svg/templates/graphLineSuccess.php",
+					"file_size": -1,
+					"file_write_time": -1,
 					"settings":
 					{
-						"buffer_size": 3479,
+						"buffer_size": 0,
 						"line_ending": "Unix"
 					}
 				}
@@ -1640,7 +1643,7 @@
 							"file": "atixnet/sgp/test/functional/admin/svgActionsTest.php",
 							"settings":
 							{
-								"buffer_size": 6775,
+								"buffer_size": 7021,
 								"regions":
 								{
 								},
@@ -1872,15 +1875,15 @@
 							"file": "atixnet/sgp/apps/admin/lib/graphSvg.class.php",
 							"settings":
 							{
-								"buffer_size": 14820,
+								"buffer_size": 18213,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										13985,
-										13985
+										0,
+										0
 									]
 								],
 								"settings":
@@ -1988,15 +1991,15 @@
 							"file": "atixnet/sgp/apps/admin/modules/svg/templates/graphRecetteSuccess.php",
 							"settings":
 							{
-								"buffer_size": 3696,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3244,
-										3244
+										0,
+										0
 									]
 								],
 								"settings":
@@ -2104,15 +2107,15 @@
 							"file": "atixnet/sgp/apps/admin/modules/svg/templates/graphBarSuccess.php",
 							"settings":
 							{
-								"buffer_size": 3977,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3472,
-										3472
+										0,
+										0
 									]
 								],
 								"settings":
@@ -2220,15 +2223,15 @@
 							"file": "atixnet/sgp/apps/admin/modules/svg/templates/graphBarMensualSuccess.php",
 							"settings":
 							{
-								"buffer_size": 3054,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2547,
-										2547
+										0,
+										0
 									]
 								],
 								"settings":
@@ -2326,7 +2329,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 459.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -2342,15 +2345,15 @@
 							"file": "atixnet/sgp/web/js/generateGraph.js",
 							"settings":
 							{
-								"buffer_size": 13598,
+								"buffer_size": 13283,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1077,
-										1077
+										0,
+										0
 									]
 								],
 								"settings":
@@ -2458,15 +2461,15 @@
 							"file": "atixnet/sgp/apps/admin/modules/svg/templates/graphLineSuccess.php",
 							"settings":
 							{
-								"buffer_size": 3479,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2835,
-										2835
+										0,
+										0
 									]
 								],
 								"settings":
@@ -2564,7 +2567,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 455.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -2610,7 +2613,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,1,0,0,0,0,0,0,0,2960,1050",
+			"position": "0,0,0,0,0,0,27,640,507,3200,1080",
 			"replace":
 			{
 				"height": 64.0
