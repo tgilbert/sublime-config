@@ -1,3 +1,4 @@
 [
-	{ "keys": ["ctrl+shift+t"], "command": "whitespacecorrector" }
+	{ "keys": ["ctrl+shift+t"], "command": "whitespacecorrector" },
+    { "keys": ["ctrl+shift+*"], "command": "toggle_side_bar" }
 ]
