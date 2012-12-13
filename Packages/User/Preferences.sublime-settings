@@ -1,4 +1,5 @@
 {
+	"detect_slow_plugins": false,
 	"ignored_packages":
 	[
 	],

@@ -31,7 +31,21 @@ from ctags import (FILENAME, parse_tag_lines, PATH_ORDER, SYMBOL, Tag, TagFile)
 
 ################################### SETTINGS ###################################
 
-setting = sublime.load_settings('CTags.sublime-settings').get # (key, None)
+def get_settings():
+    return sublime.load_settings("CTags.sublime-settings")
+
+def get_setting(key, default=None, view=None):
+    try:
+        if view == None:
+            view = sublime.active_window().active_view()
+        s = view.settings()
+        if s.has("ctags_%s" % key):
+            return s.get("ctags_%s" % key)
+    except:
+        pass
+    return get_settings().get(key, default)
+
+setting = get_setting
 
 ################################### CONSTANTS ##################################
 
@@ -138,13 +152,12 @@ def on_load(f=None, window=None, encoded_row_col=True, begin_edit=False):
 def view_fn(v): return v.file_name() or '.'
 
 def find_tags_relative_to(file_name):
-    if not file_name: return ''
+    if not file_name: return None
 
-    dirs = normpath(join(dirname(file_name), '.tags')).split(os.path.sep)
-    f = dirs.pop()
+    dirs = dirname(normpath(file_name)).split(os.path.sep)
 
     while dirs:
-        joined = normpath(os.path.sep.join(dirs + [f]))
+        joined = os.path.sep.join(dirs + ['.tags'])
         if os.path.exists(joined) and not os.path.isdir(joined): return joined
         else: dirs.pop()
 
@@ -312,26 +325,11 @@ def commonfolder(m):
 
     return os.path.sep.join(s1)
 
-def tagged_project_files(view, tag_dir):
-    window = view.window()
-    if not window: return []
-    project = None #window.project()
-    fn = view_fn(view)
-
-    if not project or ( project and
-                        not  fn.startswith(dirname(project.fileName())) ):
-        prefix_arg = fn
-        files = glob.glob(join(dirname(fn),"*"))
-    else:
-        prefix_arg = project.fileName()
-        mount_points = project.mountPoints()
-        files = list( chain(*(d['files'] for d in mount_points)) )
-
-    common_prefix = commonfolder([tag_dir, prefix_arg])
-
-    return [fn[len(common_prefix)+1:] for fn in files]
-
 def files_to_search(view, tags_file, multiple=True):
+
+    if multiple:
+        return []
+
     fn = view.file_name()
     if not fn: return
 
@@ -339,10 +337,6 @@ def files_to_search(view, tags_file, multiple=True):
 
     common_prefix = commonfolder([tag_dir, fn])
     files = [fn[len(common_prefix)+1:]]
-
-    if multiple:
-        more_files = tagged_project_files(view, tag_dir)
-        files.extend(more_files)
 
     return files
 
@@ -456,7 +450,7 @@ def ctags_goto_command(jump_directly_if_one=False):
                 status_message("Can't find any relevant tags file")
                 return
 
-            result = f(self, self.view, args, tags_file, {})
+            result = f(self, self.view, args, tags_file)
             show_tag_panel(self.view, result, jump_directly_if_one)
 
         return command
@@ -488,7 +482,8 @@ def compile_definition_filters(view):
 
 class JumpToDefinition:
     @staticmethod
-    def run(symbol, view, tags_file, tags):
+    def run(symbol, view, tags_file):
+        tags = {}
         for tags_file in alternate_tags_paths(view, tags_file):
             tags = (TagFile( tags_file, SYMBOL)
                             .get_tags_dict( symbol,
@@ -510,7 +505,7 @@ class JumpToDefinition:
         def pass_def_filter(o):
             for f in def_filters:
                 for k, v in f.items():
-		    if k in o:
+                    if k in o:
                         if re.match(v, o[k]):
                             return False
             return True
@@ -535,9 +530,9 @@ class NavigateToDefinition(sublime_plugin.TextCommand):
         return setting("show_context_menus")
 
     @ctags_goto_command(jump_directly_if_one=True)
-    def run(self, view, args, tags_file, tags):
+    def run(self, view, args, tags_file):
         symbol = view.substr(view.word(view.sel()[0]))
-        return JumpToDefinition.run(symbol, view, tags_file, tags)
+        return JumpToDefinition.run(symbol, view, tags_file)
 
 
 class SearchForDefinition(sublime_plugin.WindowCommand):
@@ -556,7 +551,7 @@ class SearchForDefinition(sublime_plugin.WindowCommand):
             status_message("Can't find any relevant tags file")
             return
 
-        result = JumpToDefinition.run(symbol, view, tags_file, {})
+        result = JumpToDefinition.run(symbol, view, tags_file)
         show_tag_panel(view, result, True)
 
     def on_change(self, text):
@@ -576,13 +571,13 @@ class ShowSymbols(sublime_plugin.TextCommand):
         return setting("show_context_menus")
 
     @ctags_goto_command()
-    def run(self, view, args, tags_file, tags):
+    def run(self, view, args, tags_file):
         if not tags_file: return
         multi = args.get('type') == 'multi'
         lang = args.get('type') == 'lang'
 
         files = files_to_search(view, tags_file, multi)
- 
+
         if lang:
             suffix = get_current_file_suffix(view)
             key = suffix
@@ -616,7 +611,7 @@ class ShowSymbols(sublime_plugin.TextCommand):
                 sublime.status_message(
                     'No symbols found **FOR CURRENT FILE**; Try Rebuild?' )
 
-        path_cols = (0, ) if len(files) > 1 else ()
+        path_cols = (0, ) if len(files) > 1 or multi else ()
         formatting = functools.partial( format_tag_for_quickopen,
                                         file = bool(path_cols)  )
 
@@ -660,11 +655,12 @@ class rebuild_tags(sublime_plugin.TextCommand):
         if 0:  # not 1 or sublime.question_box('`ctags -R` in %s ?'% dirname(tag_file)):
             return
 
-        self.build_ctags(setting('ctags_command'), tag_files)
+        command = setting('command', setting('ctags_command'))
+        self.build_ctags(command, tag_files)
 
     @threaded(msg="Already running CTags!")
     def build_ctags(self, cmd, tag_files):
-        
+
         def tags_built(tag_file):
             print 'Finished building %s' % tag_file
             in_main(lambda: status_message('Finished building %s' % tag_file))()

@@ -1,17 +1,21 @@
 {
-	"auto_upgrade_last_run": 1353343708,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Abacus",
 		"Alignment",
 		"AngularJS",
+		"copy-file-name",
 		"CTags",
 		"CTags for PHP",
+		"FileDiffs",
 		"jQuery",
 		"jQuery Snippets pack",
 		"Package Control",
 		"PHP Syntax Checker",
 		"Prefixr",
+		"Sublime File Navigator",
+		"Sublime Files",
 		"sublime-closure-linter",
 		"SublimeCodeIntel",
 		"SublimeLinter",
