@@ -1,5 +1,6 @@
 {
 	"detect_slow_plugins": false,
+	"font_size": 11,
 	"ignored_packages":
 	[
 	],

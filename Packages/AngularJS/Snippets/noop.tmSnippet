@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>angular.noop()</string>
+	<string>angular.noop</string>
 	<key>name</key>
 	<string>noop</string>
 	<key>scope</key>

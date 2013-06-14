@@ -1,31 +1,45 @@
 {
 	"folder_history":
 	[
-		"/home/tgilbert/Projets/ffst",
+		"/home/tgilbert/Projets/law-airsoft",
 		"/home/tgilbert/Projets/atixnet/sgp",
+		"/home/tgilbert/Projets/atixnet/signetest",
+		"/home/tgilbert/Projets/atixnet/signe",
+		"/home/tgilbert/Projets/backr",
+		"/home/tgilbert/Projets/seekube",
+		"/home/tgilbert/Projets/atixnet/myatixnet",
+		"/home/tgilbert/Projets/ffst",
+		"/home/tgilbert/Projets/photos-sans-bouger",
+		"/home/tgilbert/Projets/atixnet/myways",
+		"/home/tgilbert/Projets/atixnet/mydev",
+		"/home/tgilbert/Projets/atixnet/atixadminthemeplugin",
+		"/home/tgilbert/Projets/hexagone-airsoft",
+		"/home/tgilbert/Projets/maquette-lawairsoft",
+		"/home/tgilbert/Projets/atixnet/bootstrap-wysihtml5",
+		"/home/tgilbert/Projets/atixnet/formation/portail",
+		"/home/tgilbert/Projets/atixnet/Leaflet.Pancontrol",
+		"/home/tgilbert/Projets/atixnet/Leaflet.draw",
+		"/home/tgilbert/Projets/atixnet/bootstrap-contextmenu",
+		"/home/tgilbert/Projets/atixnet/jQuery-contextMenu",
+		"/home/tgilbert/Projets/atixnet/portail_rh",
+		"/home/tgilbert/Projets/atixnet/portail",
 		"/home/tgilbert/Projets/atixnet/portailRhTestLdap",
 		"/home/tgilbert/Projets/atixnet/projetVide",
 		"/home/tgilbert/Projets/atixnet/projetVideSf1",
-		"/home/tgilbert/Projets/atixnet/portail_rh",
 		"/home/tgilbert/Projets/sf_sandbox",
 		"/home/tgilbert/Projets/002871101",
 		"/home/tgilbert/Projets/atixnet/sgp.old",
 		"/home/tgilbert/Documents/ATIXNET/SGP-Tab2bord/Livrable/build/sgp_tab2bord_V1.0",
 		"/home/tgilbert/Projets/mesphotos-sans-bouger",
-		"/home/tgilbert/Projets/backr",
 		"/home/tgilbert/Projets/atixnet/sgp/apps",
 		"/home/tgilbert/Projets/noname-airsoft",
-		"/home/tgilbert/Projets/law-airsoft",
 		"/home/tgilbert/Projets/002671101",
 		"/home/tgilbert/Projets/tgprojets",
 		"/home/tgilbert/Projets/dev-sans-bouger",
 		"/home/tgilbert/Projets/noname-prod",
-		"/home/tgilbert/Projets/hexagone-airsoft",
 		"/home/tgilbert/Projets/abuledu-ent",
 		"/home/tgilbert/Projets/appNode",
 		"/home/tgilbert/Projets/myFirstApp",
-		"/home/tgilbert/Projets/seekube",
-		"/home/tgilbert/Projets/photos-sans-bouger",
 		"/home/tgilbert/Projets/mobile-ct",
 		"/home/tgilbert/Projets/ffst-mobile",
 		"/home/tgilbert/Projets/ffst/apps",
@@ -38,10 +52,10 @@
 		"/home/tgilbert/Projets/cmp-widgets-js",
 		"/home/tgilbert/Projets/epargne-solidaire"
 	],
-	"last_window_id": 95,
+	"last_window_id": 106,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 480.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -49,970 +63,13 @@
 				"selected_items":
 				[
 					[
-						"preg",
-						"preg_replace"
-					],
-					[
-						"array_key",
-						"array_key_exists"
-					],
-					[
-						"is_n",
-						"is_numeric"
-					],
-					[
-						"is_a",
-						"is_array"
-					],
-					[
-						"ordered_",
-						"ordered_lib"
-					],
-					[
-						"typ",
-						"sTypeGraph  (variable)"
-					],
-					[
-						"ttr",
-						"transformCSVToArray  (function)"
-					],
-					[
-						"ordere",
-						"ordered_lib"
-					],
-					[
-						"getT",
-						"getTypeGraph"
-					],
-					[
-						"call",
-						"callback"
-					],
-					[
-						"min-",
-						"min-width"
-					],
-					[
-						"req",
-						"request"
-					],
-					[
-						"exi",
-						"existParam"
-					],
-					[
-						"n",
-						"nUser"
-					],
-					[
-						"str_re",
-						"str_replace"
-					],
-					[
-						"for",
-						"foreach"
-					],
-					[
-						"getPa",
-						"getParameter"
-					],
-					[
-						"html",
-						"html_entity_decode"
-					],
-					[
-						"getDate",
-						"getDateMedical"
-					],
-					[
-						"send",
-						"sendMailContact"
-					],
-					[
-						"pad",
-						"padding"
-					],
-					[
-						"oP",
-						"oPayment"
-					],
-					[
-						"nCateD",
-						"nCateDC"
-					],
-					[
-						"nCA",
-						"nCate2D"
-					],
-					[
-						"nCa",
-						"nCate4D"
-					],
-					[
-						"createLice",
-						"createLicenceUser"
-					],
-					[
-						"setT",
-						"setTypeLicence"
-					],
-					[
-						"nTypeLicA",
-						"nTypeLicAtt"
-					],
-					[
-						"nTypeLicM",
-						"nTypeLicMonJunior"
-					],
-					[
-						"text-",
-						"text-decoration"
-					],
-					[
-						"strto",
-						"strtotime"
-					],
-					[
-						"Yea",
-						"YearStart"
-					],
-					[
-						"Date",
-						"DateSaisie"
+						"max",
+						"maxTrajet"
 					],
 					[
 						"back",
-						"background-color"
+						"background"
 					],
-					[
-						"text",
-						"text-decoration"
-					],
-					[
-						"mo",
-						"mobile"
-					],
-					[
-						"de",
-						"debug"
-					],
-					[
-						"re",
-						"refresh"
-					],
-					[
-						"padd",
-						"padding-right"
-					],
-					[
-						"max",
-						"max-width"
-					],
-					[
-						"tournoi",
-						"tournoi-online-3"
-					],
-					[
-						"getA",
-						"getAmountAvailable"
-					],
-					[
-						"tbl_",
-						"tbl_tournament_player"
-					],
-					[
-						"padding-",
-						"padding-bottom"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"tbl_credi",
-						"tbl_credit_move_profil"
-					],
-					[
-						"aVali",
-						"aValidatorPlayer"
-					],
-					[
-						"sf",
-						"sfGuardUser"
-					],
-					[
-						"dir",
-						"DIRECTORY_SEPARATOR"
-					],
-					[
-						"ob",
-						"object"
-					],
-					[
-						"psFil",
-						"psFileName"
-					],
-					[
-						"data",
-						"data-url"
-					],
-					[
-						"soc",
-						"societeId"
-					],
-					[
-						"oPor",
-						"oPortfolio"
-					],
-					[
-						"fun",
-						"function"
-					]
-				]
-			},
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 375.0,
-				"selected_items":
-				[
-					[
-						"svn",
-						"SVN: Log"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: List Packages"
-					],
-					[
-						"package",
-						"Package Control: List Packages"
-					],
-					[
-						"upp",
-						"Convert Case: Upper Case"
-					],
-					[
-						"low",
-						"Convert Case: Lower Case"
-					],
-					[
-						"align",
-						"Preferences: Alignment File Settings – User"
-					],
-					[
-						"wrap",
-						"Word Wrap: Toggle"
-					],
-					[
-						"white",
-						"WordHighlight: Toggle Enabled"
-					],
-					[
-						"rem",
-						"Package Control: Remove Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"word",
-						"WordHighlight: Toggle Enabled"
-					],
-					[
-						"toggle",
-						"Word Wrap: Toggle"
-					],
-					[
-						"ctag",
-						"Code Folding: Fold Tag Attributes"
-					],
-					[
-						"sni",
-						"Snippet: Lorem ipsum"
-					],
-					[
-						"packa",
-						"Package Control: List Packages"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"instal",
-						"Preferences: Alignment File Settings – Default"
-					],
-					[
-						"repos",
-						"Package Control: Add Repository"
-					],
-					[
-						"Packa",
-						"Package Control: Add Repository"
-					],
-					[
-						"key",
-						"Preferences: Key Bindings - Default"
-					]
-				],
-				"width": 588.0
-			},
-			"console":
-			{
-				"height": 139.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/home/tgilbert/Projets/atixnet/sgp/test/lib/browserTestFunctional.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_graphique_tresorerie.php",
-				"/home/tgilbert/Projets/atixnet/sgp/test/functional/admin/param_scheduleActionsTest.php",
-				"/home/tgilbert/Projets/atixnet/sgp/config/databases.yml",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/lib/generateSchedule.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/lib/graphSvg.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/actions/actions.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/test/functional/admin/svgActionsTest.php",
-				"/home/tgilbert/Projets/backr/test/functional/backend/newsActionsTest.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/scheduleSuccess.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/graphSuccess.php",
-				"/home/tgilbert/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/vendor/symfony/lib/test/sfTestFunctionalBase.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/web/CSVEXEMPLE/graph_drawbar_mensuel.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/test/lib/uploadsTest.class.php",
-				"/home/tgilbert/Projets/backr/test/lib/browserTestFunctional.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/config/deploy.rb",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/tableauSuccess.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/lib/generateSvg.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_tableau.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/helper/outils.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/web/js/generateGraph.js",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_graphique_invest.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Table.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/lib/graphParam.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/param_graph/actions/actions.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/param_tableau/actions/actions.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/web/css/main.css",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_graphique_recettes.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_line.php",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/graphline.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/EXgraphRecette.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/EXgraphline.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/EXgraphBarMensuel.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/EXgraphBar.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/web/CSVEXEMPLE/graph_drawbar.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/graphLine2.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_legend.php",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/graphBarMensuel.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/graphBar3.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/web/CSVEXEMPLE/graph_recette.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/web/CSVEXEMPLE/graph_line.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_ordered.php",
-				"/home/tgilbert/Projets/ffst/apps/frontend/lib/calculLicence.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/graphBar2.csv",
-				"/home/tgilbert/.config/sublime-text-2/Packages/FileDiffs/FileDiffs.sublime-settings",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/graphBar.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/graphRecette.csv",
-				"/home/tgilbert/.config/sublime-text-2/Packages/Sublime Files/Default (Linux).sublime-keymap",
-				"/home/tgilbert/.config/sublime-text-2/Packages/User/FileDiffs.sublime-settings",
-				"/home/tgilbert/.config/sublime-text-2/Packages/Sublime Files/SublimeFiles.sublime-settings",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/param_tableau/config/generator.yml",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/param_schedule/templates/ListDisplaySuccess.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/param_schedule/actions/actions.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/param_schedule/config/generator.yml",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/templates/_nav.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/model/doctrine/ParamScheduleTable.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/model/doctrine/ParamTableauTable.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/tableau.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/backup.sh",
-				"/home/tgilbert/Documents/ATIXNET/SGP-Tab2bord/tableau.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/planning.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/model/doctrine/base/BaseParamSchedule.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_phase.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_schedule.php",
-				"/home/tgilbert/vserver/sgp/shared/config/databases.yml",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/planning.csv*",
-				"/home/tgilbert/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-				"/home/tgilbert/Projets/atixnet/sgp/config/doctrine/schema.yml",
-				"/home/tgilbert/Projets/atixnet/sgp/restore.sh",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/indexSuccess.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/migration/doctrine/1354034685_version13.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/migration/doctrine/1354034684_version12.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/lib/graphSvgNew.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/vendor/symfony/lib/yaml/sfYaml.php",
-				"/home/tgilbert/Projets/atixnet/sgp/data/patch/04-migrate_marche_script.php",
-				"/home/tgilbert/Projets/ffst/config/deploy.rb",
-				"/home/tgilbert/Projets/atixnet/sgp/config/deploy.rb.dist",
-				"/home/tgilbert/Projets/atixnet/sgp/parseyml.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/param_graph/config/generator.yml",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/templates/layout.php",
-				"/home/tgilbert/Projets/atixnet/sgp/web/css/formulaire_graph.css",
-				"/home/tgilbert/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/graphBar.csv*",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/graphLineSuccess.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/graphBarMensualSuccess.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/graphRecetteSuccess.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/graphBarSuccess.php",
-				"/home/tgilbert/Projets/atixnet/sgp/web/css/farbtastic.css",
-				"/home/tgilbert/Projets/atixnet/sgp/web/js/farbtastic.js",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_graphique_type_line.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_abscisse.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_head.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/config/settings.yml",
-				"/home/tgilbert/Projets/atixnet/sgp/data/patch/02-typegraph.sql",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/model/doctrine/ParamGraphTable.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/migration/doctrine/1350564122_version3.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/migration/doctrine/1350564123_version4.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/model/doctrine/ParamTableau.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/web/css/formulaire_tableau.css",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/lib/form/paramSvgTableauForm.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/form/doctrine/ParamTableauForm.class.php",
-				"/home/tgilbert/Projets/backr/apps/backend/modules/news/actions/actions.class.php",
-				"/home/tgilbert/Projets/noname-airsoft/apps/frontend/modules/sfGuardAuth/actions/actions.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/model/doctrine/base/BaseParamTableau.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/plugins/sfPhpExcelPlugin/lib/PHPExcel/PHPExcel/IOFactory.php",
-				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_list_actions.php",
-				"/home/tgilbert/Projets/ffst/apps/frontend/lib/tools/exportLicence.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/plugins/sfDoctrineGuardPlugin/lib/user/sfGuardSecurityUser.class.php",
-				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_clubForm.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/form/doctrine/base/BaseParamTableauForm.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/form/UploadCsvForm.class.php",
-				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_mandatForm.class.php",
-				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_saisonForm.class.php",
-				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/ListShowSuccess.php",
-				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/templates/ListShowSuccess.php",
-				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_licenceoldForm.class.php",
-				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/config/generator.yml",
-				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licenceold/templates/_image_profil.php",
-				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/config/generator.yml",
-				"/home/tgilbert/Projets/ffst/apps/frontend/modules/licence/templates/_image_profil.php",
-				"/home/tgilbert/Projets/ffst/web/css/admin.css",
-				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_licenceForm.class.php",
-				"/home/tgilbert/Projets/ffst/apps/frontend/lib/licence.class.php",
-				"/home/tgilbert/Projets/ffst/apps/frontend/templates/layout.php",
-				"/home/tgilbert/Projets/ffst/data/patch/03-params.sql",
-				"/home/tgilbert/Projets/ffst/apps/frontend/lib/printLicence.class.php",
-				"/home/tgilbert/Projets/ffst/config/doctrine/schema.yml"
-			],
-			"find":
-			{
-				"height": 87.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					"",
-					"/home/tgilbert/Projets/sgp ",
-					"/home/tgilbert/Projets/ffst/apps ,*.php",
-					"*.php, *.js",
-					"*.php",
-					"*.yml",
-					"*.php",
-					"*.css",
-					"*.php",
-					"*.css",
-					"*.php",
-					"*.css",
-					"",
-					"/home/tgilbert/Projets/backr/apps/frontend",
-					"/home/tgilbert/Projets/backr/",
-					"/home/tgilbert/Projets/backr/lib/model/",
-					"/home/tgilbert/Projets/backr/apps/",
-					"/home/tgilbert/Projets/backr/apps/frontend/",
-					"/home/tgilbert/Projets/backr/",
-					"/home/tgilbert/Projets/hexagone-airsoft/apps",
-					"/home/tgilbert/Projets/backr/apps",
-					"/home/tgilbert/Projets/backr/lib/model",
-					"/home/tgilbert/Projets/backr/lib/filter",
-					"/home/tgilbert/Projets/backr/lib/form",
-					"/home/tgilbert/Projets/backr/lib",
-					"/home/tgilbert/Projets/backr/lib/form",
-					"*.css",
-					"*.yml",
-					"",
-					"/home/tgilbert/Projets/backr/apps/",
-					"/home/tgilbert/Projets/backr/apps/frontend",
-					"",
-					"-cache",
-					"",
-					"/home/tgilbert/Projets/backr/lib/vendor/symfony",
-					"",
-					"*.css",
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"layout",
-					"form",
-					"multipart",
-					"file",
-					"fd_1",
-					"font-family",
-					"console.log",
-					"couleur",
-					"police_1",
-					"police_2",
-					"outils",
-					"getLineComp",
-					"createColor",
-					"display_comp_",
-					"console.log",
-					"initValuesComp",
-					"comp",
-					"rebuildSelect",
-					"transformCSVToArray",
-					"csv",
-					"diff",
-					"\";\n",
-					"setContent",
-					"preg",
-					"display_format",
-					"oPage",
-					"strlen",
-					"getParams",
-					"getContent",
-					"getValues",
-					"getColonne",
-					"getNbAbscisse",
-					"position",
-					"createThAbscisse",
-					"tb_indicator",
-					"td_indicator",
-					"auto",
-					"console.log",
-					"aAbscisse",
-					"ordered",
-					"line_lib",
-					"aLabel",
-					"+'\">';\n",
-					"nbMon",
-					"nb_line",
-					"setContent",
-					"comp",
-					"();\n",
-					"getAbscisse",
-					"transformToArray",
-					"LIBDEFAULT",
-					"getColors",
-					"getParams",
-					"getOrdered",
-					"getColorsLine",
-					"getLibsLine",
-					"getValuesLine",
-					"existParam",
-					"getNbLines",
-					"getNbMonth",
-					"getNbMonthBar",
-					"getNbOrdered",
-					"getNbAbscisse",
-					"getDefaultLine",
-					"getDefaultColorLine",
-					"getAbscisse",
-					"getIdParam",
-					"getLineComp",
-					"getAllParams",
-					"getCompLine",
-					"date",
-					"print",
-					"die",
-					"setLines",
-					"aComp",
-					"aDefaultLine",
-					"aDefaultLines",
-					"aDefaultLine",
-					"aDefaultLines",
-					"print_r($this->aLines);\n                    die();",
-					"nb_ordere",
-					"nb_line",
-					"nb_m",
-					"comp_color",
-					"nbAbscisse",
-					"aDefaultLine",
-					",",
-					"'",
-					"{                ",
-					"colorwell-selected",
-					"color_",
-					"createFieldCompBar",
-					"createIndicBar",
-					"abscisse_lib_",
-					"initAbscisse",
-					"createOrdered",
-					"createAbscisse",
-					"nbmonth",
-					"month",
-					"createFieldBar",
-					"key",
-					"color",
-					"couleur",
-					"$indicateurs",
-					"$valeurs_engage['couleur']",
-					"couleur_point",
-					"b0d21a",
-					"valeurs_budget",
-					"aAbscisse",
-					"valeurs_prevision",
-					"indicateurs",
-					"valeurs_budget",
-					"b5c9cf",
-					"40c5ef",
-					"legende_couleurs",
-					"valeurs_engage",
-					"indicateurs",
-					"valeurs_mandate",
-					"valeur_text",
-					"$ordonnees",
-					"ordonnees",
-					"colorDefaultLine",
-					"nbLine",
-					"line_indicateur_default",
-					"valeur_text",
-					"leftJoin",
-					"partial",
-					"fd_1"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					";",
-					"",
-					"i",
-					"tbl_ligue",
-					"$this->pdf",
-					"$this->bClub",
-					"083a99",
-					"010066",
-					". ",
-					"images/chips",
-					"../images/chips/",
-					"stake",
-					"stak",
-					"backr",
-					"tournament/mincard",
-					"player/mincard",
-					"/images",
-					"/images/",
-					"\"/images/",
-					"\"",
-					"images/camera_skins.png",
-					""
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 34.0
-			},
-			"input":
-			{
-				"height": 33.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"replace":
-			{
-				"height": 64.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"sfy",
-						"lib/vendor/symfony/lib/yaml/sfYaml.php"
-					],
-					[
-						"sfguardsecurityuser",
-						"sgp/plugins/sfDoctrineGuardPlugin/lib/user/sfGuardSecurityUser.class.php"
-					],
-					[
-						"exportlicence",
-						"ffst/apps/frontend/lib/tools/exportLicence.class.php"
-					],
-					[
-						"sfformdoctrine",
-						"ffst/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/form/sfFormDoctrine.class.php"
-					],
-					[
-						"baseformdoctrine",
-						"ffst/lib/form/doctrine/BaseFormDoctrine.class.php"
-					],
-					[
-						"sfmodelgeneratorconfiguration",
-						"ffst/lib/vendor/symfony/lib/generator/sfModelGeneratorConfiguration.class.php"
-					],
-					[
-						"licencegeneratorconfiguration",
-						"ffst/cache/frontend/dev/modules/autoLicence/lib/BaseLicenceGeneratorConfiguration.class.php"
-					],
-					[
-						"sfbasicsecurityuser",
-						"ffst/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php"
-					],
-					[
-						"sfsto",
-						"ffst/lib/vendor/symfony/lib/storage/sfStorage.class.php"
-					],
-					[
-						"sfsess",
-						"ffst/lib/vendor/symfony/lib/storage/sfSessionStorage.class.php"
-					],
-					[
-						"tcpdf",
-						"ffst/plugins/sfTCPDFPlugin/lib/tcpdf/tcpdf.php"
-					],
-					[
-						"sfwidgetformtextarea",
-						"ffst/lib/vendor/symfony/lib/widget/sfWidgetFormTextarea.class.php"
-					],
-					[
-						"sfvalidatorstring",
-						"ffst/lib/vendor/symfony/lib/validator/sfValidatorString.class.php"
-					],
-					[
-						"sfwidgetformdoctrinechoice",
-						"ffst/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/widget/sfWidgetFormDoctrineChoice.class.php"
-					],
-					[
-						"sfwidgetformjqueryautocompleter",
-						"ffst/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormJQueryAutocompleter.class.php"
-					],
-					[
-						"sfwidgetformdoctrinejqueryautocompleter",
-						"ffst/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormDoctrineJQueryAutocompleter.class.php"
-					],
-					[
-						"sft",
-						"ffst/plugins/sfTCPDFPlugin/lib/sfTCPDF.class.php"
-					],
-					[
-						"sfvalidatorin",
-						"ffst/lib/vendor/symfony/lib/validator/sfValidatorInteger.class.php"
-					],
-					[
-						"sfdoctrineunique",
-						"lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/validator/sfValidatorDoctrineUnique.class.php"
-					],
-					[
-						"pluginsfguarduser",
-						"ffst/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardUser.class.php"
-					],
-					[
-						"sfguarduser",
-						"ffst/lib/model/doctrine/sfDoctrineGuardPlugin/sfGuardUser.class.php"
-					],
-					[
-						"sfdoctrinerecord",
-						"ffst/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/record/sfDoctrineRecord.class.php"
-					],
-					[
-						"sfformobject",
-						"ffst/lib/vendor/symfony/lib/form/addon/sfFormObject.class.php"
-					],
-					[
-						"basetbl_ligueform",
-						"ffst/lib/form/doctrine/base/Basetbl_ligueForm.class.php"
-					],
-					[
-						"devoireleveform",
-						"abuledu-ent/apps/ent/lib/form/devoirEleveForm.class.php"
-					],
-					[
-						"basetbl_player_imagesform",
-						"lib/form/doctrine/base/Basetbl_player_imagesForm.class.php"
-					],
-					[
-						"basetbl_profilformfilter",
-						"lib/filter/doctrine/base/Basetbl_profilFormFilter.class.php"
-					],
-					[
-						"_edittour",
-						"backr/apps/frontend/modules/myaccount/templates/_editTournament.php"
-					],
-					[
-						"sfaction",
-						"backr/lib/vendor/symfony/lib/action/sfAction.class.php"
-					],
-					[
-						"sfactions",
-						"backr/lib/vendor/symfony/lib/action/sfActions.class.php"
-					],
-					[
-						"forward",
-						"backr/lib/vendor/symfony/lib/exception/sfForwardException.class.php"
-					],
-					[
-						"basetbl_tournament_playerformfilter",
-						"backr/lib/filter/doctrine/base/Basetbl_tournament_playerFormFilter.class.php"
-					],
-					[
-						"sfformfilterdoctrine",
-						"backr/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/form/sfFormFilterDoctrine.class.php"
-					],
-					[
-						"baseformfilterdoctrine",
-						"backr/lib/filter/doctrine/BaseFormFilterDoctrine.class.php"
-					],
-					[
-						"stakeplay",
-						"apps/frontend/modules/tournament/templates/_stakeplayer.php"
-					],
-					[
-						"sfform",
-						"backr/lib/vendor/symfony/lib/form/sfForm.class.php"
-					],
-					[
-						"schema",
-						"backr/plugins/sfDoctrineGuardPlugin/config/doctrine/schema.yml"
-					],
-					[
-						"myuser",
-						"apps/frontend/lib/myUser.class.php"
-					],
-					[
-						"stakepl",
-						"apps/frontend/modules/tournament/templates/_stakeplayer.php"
-					],
-					[
-						"myu",
-						"apps/frontend/lib/myUser.class.php"
-					],
-					[
-						"sfbrowserbase",
-						"lib/vendor/symfony/lib/util/sfBrowserBase.class.php"
-					],
-					[
-						"sfbrow",
-						"lib/vendor/symfony/lib/util/sfBrowser.class.php"
-					],
-					[
-						"sfwidgetformchoice",
-						"backr/lib/vendor/symfony/lib/widget/sfWidgetFormChoice.class.php"
-					],
-					[
-						"sfvalidatedfile",
-						"backr/lib/vendor/symfony/lib/validator/sfValidatedFile.class.php"
-					],
-					[
-						"sfwidgetformi18ndate",
-						"backr/lib/vendor/symfony/lib/widget/i18n/sfWidgetFormI18nDate.class.php"
-					],
-					[
-						"sfwidgetformi18ndatetime",
-						"backr/lib/vendor/symfony/lib/widget/i18n/sfWidgetFormI18nDateTime.class.php"
-					],
-					[
-						"sfimage",
-						"mesphotos-sans-bouger/plugins/sfMultipleAjaxUploadGalleryPlugin/lib/sfImage.class.php"
-					],
-					[
-						"layout",
-						"backr/apps/backend/templates/layout.php"
-					],
-					[
-						"layou",
-						"backr/apps/frontend/templates/layout.php"
-					],
-					[
-						"sftwigextension",
-						"002671101/plugins/sfTwigPlugin/lib/vendor/Twig/doc/extensions.rst"
-					],
-					[
-						"settemplate",
-						"backr/plugins/sfTwigPlugin/lib/vendor/Twig/doc/templates.rst"
-					],
-					[
-						"startup",
-						"website/var/config/startup.php"
-					],
-					[
-						"mygene",
-						"lib/myGenerique.class.php"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 301.0,
-			"status_bar_visible": true
-		},
-		"new_window_width": 0.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"Va",
 						"ValideurFonction"
@@ -1150,10 +207,6 @@
 						"DateSaisie"
 					],
 					[
-						"back",
-						"background-color"
-					],
-					[
 						"text",
 						"text-decoration"
 					],
@@ -1172,10 +225,6 @@
 					[
 						"padd",
 						"padding-right"
-					],
-					[
-						"max",
-						"max-width"
 					],
 					[
 						"tournoi",
@@ -1239,78 +288,39 @@
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "atixnet/portail_rh/config/doctrine/portail.yml",
-					"settings":
-					{
-						"buffer_size": 2852,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "atixnet/portail_rh/config/doctrine/conges.yml",
-					"settings":
-					{
-						"buffer_size": 10413,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "atixnet/portail_rh/config/doctrine/schema.yml",
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "atixnet/portail_rh/config/databases.yml",
-					"settings":
-					{
-						"buffer_size": 454,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "atixnet/sgp/plugins/sfDoctrineGuardPlugin/config/doctrine/schema.yml",
-					"settings":
-					{
-						"buffer_size": 3543,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "atixnet/sgp/config/doctrine/schema.yml",
-					"settings":
-					{
-						"buffer_size": 58875,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "ffst/config/doctrine/schema.yml",
-					"settings":
-					{
-						"buffer_size": 14257,
-						"line_ending": "Unix"
-					}
-				}
-			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 375.0,
+				"height": 194.0,
 				"selected_items":
 				[
 					[
-						"svn",
-						"SVN: Log"
+						":q",
+						"Snippet: QUnit HTML"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"colo",
+						"Color picker"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"svn",
+						"SVN: Log"
 					],
 					[
 						"ins",
@@ -1319,14 +329,6 @@
 					[
 						"insta",
 						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: List Packages"
-					],
-					[
-						"package",
-						"Package Control: List Packages"
 					],
 					[
 						"upp",
@@ -1381,10 +383,6 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"instal",
-						"Preferences: Alignment File Settings – Default"
-					],
-					[
 						"repos",
 						"Package Control: Add Repository"
 					],
@@ -1414,6 +412,46 @@
 			},
 			"file_history":
 			[
+				"/home/tgilbert/Projets/atixnet/mydev/web/css/print.css",
+				"/home/tgilbert/Projets/atixnet/mydev/data/cron/migrate.data.php",
+				"/home/tgilbert/Projets/atixnet/mydev/config/deploy.rb",
+				"/home/tgilbert/Projets/atixnet/mydev/config/deploy/sandbox.rb",
+				"/home/tgilbert/Projets/atixnet/mydev/config/doctrine/conges.yml",
+				"/home/tgilbert/Projets/atixnet/mydev/apps/front/lib/solde.class.php",
+				"/home/tgilbert/Projets/atixnet/mydev/apps/front/modules/profil/templates/monSoldeSuccess.php",
+				"/home/tgilbert/Projets/atixnet/mydev/lib/model/doctrine/CongesTable.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/deplacement/templates/indexSuccess.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/lib/deplacement.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/web/js/maps/edit/handler/Edit.Poly.js",
+				"/home/tgilbert/Projets/atixnet/myways/data/patch/color.sql",
+				"/home/tgilbert/Projets/atixnet/myways/web/js/maps/generate.layer.class.js",
+				"/home/tgilbert/Projets/atixnet/myways/web/js/maps/control.panel.class.js",
+				"/home/tgilbert/Projets/atixnet/myways/web/css/main.css",
+				"/home/tgilbert/Projets/atixnet/myways/data/patch/icone-activite.sql",
+				"/home/tgilbert/Projets/atixnet/myways/patch.sh",
+				"/home/tgilbert/Projets/atixnet/myways/parseyml.php",
+				"/home/tgilbert/Projets/atixnet/myways/config/databases.yml",
+				"/home/tgilbert/Projets/atixnet/myways/config/doctrine/myways.yml",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/deplacement/actions/actions.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/web/css/leaflet.css",
+				"/home/tgilbert/Projets/atixnet/Leaflet.Pancontrol/src/L.Control.Pan.js",
+				"/home/tgilbert/Projets/atixnet/Leaflet.draw/examples/edithandlers.html",
+				"/home/tgilbert/Projets/atixnet/bootstrap-contextmenu/demo/test.html",
+				"/home/tgilbert/Projets/atixnet/bootstrap-contextmenu/demo/demo.html",
+				"/home/tgilbert/Projets/atixnet/myways/web/css/jquery.contextMenu.css",
+				"/home/tgilbert/Projets/atixnet/jQuery-contextMenu/demo.html",
+				"/home/tgilbert/Projets/atixnet/myways/data/patch/icone.sql",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/deplacement/templates/testSuccess.php",
+				"/home/tgilbert/Projets/atixnet/myways/lib/model/doctrine/Trajet.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/restore.sh",
+				"/home/tgilbert/Projets/atixnet/myways/web/js/bootstrap-dropdown.js",
+				"/home/tgilbert/Projets/ffst/config/doctrine/schema.yml",
+				"/home/tgilbert/Projets/atixnet/sgp/config/doctrine/schema.yml",
+				"/home/tgilbert/Projets/atixnet/sgp/plugins/sfDoctrineGuardPlugin/config/doctrine/schema.yml",
+				"/home/tgilbert/Projets/atixnet/portail_rh/config/databases.yml",
+				"/home/tgilbert/Projets/atixnet/portail_rh/config/doctrine/schema.yml",
+				"/home/tgilbert/Projets/atixnet/portail_rh/config/doctrine/conges.yml",
+				"/home/tgilbert/Projets/atixnet/portail_rh/config/doctrine/portail.yml",
 				"/home/tgilbert/Projets/atixnet/sgp/config/deploy.rb.dist",
 				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/tableauSuccess.php",
 				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/actions/actions.class.php",
@@ -1431,7 +469,6 @@
 				"/home/tgilbert/Documents/ATIXNET/SGP-Tab2bord/Livrable/build/filemodif/nettoyage_script.php",
 				"/home/tgilbert/Projets/atixnet/sgp/config/deploy.rb",
 				"/home/tgilbert/Projets/ffst/apps/frontend/config/settings.yml",
-				"/home/tgilbert/Projets/atixnet/portail_rh/config/databases.yml",
 				"/home/tgilbert/Projets/atixnet/projetVide/config/databases.yml-dist",
 				"/home/tgilbert/Projets/sf_sandbox/config/databases.yml",
 				"/home/tgilbert/Projets/atixnet/projetVideSf1/.gitignore",
@@ -1502,46 +539,7 @@
 				"/home/tgilbert/Projets/atixnet/sgp/backup.sh",
 				"/home/tgilbert/Documents/ATIXNET/SGP-Tab2bord/tableau.csv",
 				"/home/tgilbert/Projets/atixnet/sgp/data/backup/planning.csv",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/model/doctrine/base/BaseParamSchedule.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_phase.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_schedule.php",
-				"/home/tgilbert/vserver/sgp/shared/config/databases.yml",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/planning.csv*",
-				"/home/tgilbert/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-				"/home/tgilbert/Projets/atixnet/sgp/config/doctrine/schema.yml",
-				"/home/tgilbert/Projets/atixnet/sgp/restore.sh",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/indexSuccess.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/migration/doctrine/1354034685_version13.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/migration/doctrine/1354034684_version12.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/lib/graphSvgNew.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/vendor/symfony/lib/yaml/sfYaml.php",
-				"/home/tgilbert/Projets/atixnet/sgp/data/patch/04-migrate_marche_script.php",
-				"/home/tgilbert/Projets/ffst/config/deploy.rb",
-				"/home/tgilbert/Projets/atixnet/sgp/parseyml.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/param_graph/config/generator.yml",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/templates/layout.php",
-				"/home/tgilbert/Projets/atixnet/sgp/web/css/formulaire_graph.css",
-				"/home/tgilbert/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
-				"/home/tgilbert/Projets/atixnet/sgp/data/backup/graphBar.csv*",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/graphLineSuccess.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/graphBarMensualSuccess.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/graphRecetteSuccess.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/graphBarSuccess.php",
-				"/home/tgilbert/Projets/atixnet/sgp/web/css/farbtastic.css",
-				"/home/tgilbert/Projets/atixnet/sgp/web/js/farbtastic.js",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_graphique_type_line.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_abscisse.php",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_head.php",
-				"/home/tgilbert/Projets/atixnet/sgp/data/patch/02-typegraph.sql",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/model/doctrine/ParamGraphTable.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/migration/doctrine/1350564122_version3.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/migration/doctrine/1350564123_version4.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/model/doctrine/ParamTableau.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/web/css/formulaire_tableau.css",
-				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/lib/form/paramSvgTableauForm.class.php",
-				"/home/tgilbert/Projets/atixnet/sgp/lib/form/doctrine/ParamTableauForm.class.php",
-				"/home/tgilbert/Projets/backr/apps/backend/modules/news/actions/actions.class.php",
-				"/home/tgilbert/Projets/noname-airsoft/apps/frontend/modules/sfGuardAuth/actions/actions.class.php"
+				"/home/tgilbert/Projets/atixnet/sgp/lib/model/doctrine/base/BaseParamSchedule.class.php"
 			],
 			"find":
 			{
@@ -1549,9 +547,22 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 95.0,
 				"where_history":
 				[
+					"/home/tgilbert/Projets/atixnet/mydev/lib/model",
+					"/home/tgilbert/Projets/atixnet/mydev/lib/form",
+					"/home/tgilbert/Projets/atixnet/mydev/lib/helper",
+					"/home/tgilbert/Projets/atixnet/mydev/apps/front",
+					"/home/tgilbert/Projets/atixnet/mydev/apps",
+					"/home/tgilbert/Projets/atixnet/mydev/data",
+					"/home/tgilbert/Projets/atixnet/mydev/lib/form",
+					"/home/tgilbert/Projets/atixnet/mydev/lib/helper",
+					"/home/tgilbert/Projets/atixnet/mydev/lib/model",
+					"/home/tgilbert/Projets/atixnet/mydev/lib",
+					"/home/tgilbert/Projets/atixnet/mydev/apps",
+					"/home/tgilbert/Projets/atixnet/mydev",
+					"/home/tgilbert/Projets/atixnet/myways/web/js",
 					"",
 					"/home/tgilbert/Projets/sgp ",
 					"/home/tgilbert/Projets/ffst/apps ,*.php",
@@ -1597,6 +608,53 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"preg_match",
+					"replace",
+					"preg_replace",
+					"regex",
+					"rtt",
+					"background",
+					"nav",
+					"sFichier",
+					"console",
+					"SelectTrajet",
+					"console.",
+					"hideTrajets",
+					"alert",
+					"redra",
+					" && index == 0",
+					"date",
+					");\n",
+					"toto",
+					"color",
+					"dep_info",
+					"_onMarkerClick",
+					"dashArray",
+					"icon_big",
+					"disable",
+					"hide",
+					"groupMarkerTrajet",
+					"F",
+					"_createMarker",
+					"icon_big",
+					"png",
+					"Class",
+					"Control",
+					"test3",
+					"control",
+					"clearMenus",
+					"main",
+					"context2",
+					"mode_colors",
+					"edit",
+					"openContextmenu",
+					"images",
+					"context",
+					"icone",
+					"icon",
+					"_trajets.next",
+					"_isLast",
+					"next",
 					"dotrine",
 					"time",
 					"marche",
@@ -1677,54 +735,7 @@
 					"aComp",
 					"aDefaultLine",
 					"aDefaultLines",
-					"aDefaultLine",
-					"aDefaultLines",
-					"print_r($this->aLines);\n                    die();",
-					"nb_ordere",
-					"nb_line",
-					"nb_m",
-					"comp_color",
-					"nbAbscisse",
-					"aDefaultLine",
-					",",
-					"'",
-					"{                ",
-					"colorwell-selected",
-					"color_",
-					"createFieldCompBar",
-					"createIndicBar",
-					"abscisse_lib_",
-					"initAbscisse",
-					"createOrdered",
-					"createAbscisse",
-					"nbmonth",
-					"month",
-					"createFieldBar",
-					"key",
-					"color",
-					"couleur",
-					"$indicateurs",
-					"$valeurs_engage['couleur']",
-					"couleur_point",
-					"b0d21a",
-					"valeurs_budget",
-					"aAbscisse",
-					"valeurs_prevision",
-					"indicateurs",
-					"valeurs_budget",
-					"b5c9cf",
-					"40c5ef",
-					"legende_couleurs",
-					"valeurs_engage",
-					"indicateurs",
-					"valeurs_mandate",
-					"valeur_text",
-					"$ordonnees",
-					"ordonnees",
-					"colorDefaultLine",
-					"nbLine",
-					"line_indicateur_default",
-					"valeur_text"
+					"aDefaultLine"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1732,6 +743,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"/images",
 					";",
 					"",
 					"i",
@@ -1761,657 +773,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"groups":
-			[
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "atixnet/portail_rh/config/doctrine/portail.yml",
-							"settings":
-							{
-								"buffer_size": 2852,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2529,
-										2529
-									]
-								],
-								"settings":
-								{
-									"auto_name": "",
-									"syntax": "Packages/YAML/YAML.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1756.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "atixnet/portail_rh/config/doctrine/conges.yml",
-							"settings":
-							{
-								"buffer_size": 10413,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										10262,
-										10262
-									]
-								],
-								"settings":
-								{
-									"auto_name": "",
-									"syntax": "Packages/YAML/YAML.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 8233.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "atixnet/portail_rh/config/doctrine/schema.yml",
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/YAML/YAML.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "atixnet/portail_rh/config/databases.yml",
-							"settings":
-							{
-								"buffer_size": 454,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										393,
-										393
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/YAML/YAML.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 4,
-							"file": "atixnet/sgp/plugins/sfDoctrineGuardPlugin/config/doctrine/schema.yml",
-							"settings":
-							{
-								"buffer_size": 3543,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										808,
-										808
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/YAML/YAML.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 204.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "atixnet/sgp/config/doctrine/schema.yml",
-							"settings":
-							{
-								"buffer_size": 58875,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										33888,
-										33888
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/YAML/YAML.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 44116.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "ffst/config/doctrine/schema.yml",
-							"settings":
-							{
-								"buffer_size": 14257,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										798,
-										798
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/YAML/YAML.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				}
-			],
 			"incremental_find":
 			{
 				"height": 34.0
@@ -2429,18 +790,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.5,
 					1.0
 				],
 				"rows":
@@ -2450,7 +804,6 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,1,0,0,0,1724,126,2364,606,3200,1080",
 			"replace":
 			{
 				"height": 64.0
@@ -2678,26 +1031,2523 @@
 			},
 			"select_project":
 			{
-				"height": 0.0,
+				"height": 500.0,
 				"selected_items":
 				[
+					[
+						"",
+						"/home/tgilbert/Projets/ffst/config/sgp.sublime-project"
+					]
 				],
-				"width": 0.0
+				"width": 380.0
 			},
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 301.0,
+			"side_bar_width": 445.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"aDep",
+						"aDepToJson"
+					],
+					[
+						"po",
+						"polyline"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"se",
+						"sendForgotpassword  (function)"
+					],
+					[
+						"max",
+						"maxTrajet"
+					],
+					[
+						"Va",
+						"ValideurFonction"
+					],
+					[
+						"html",
+						"htmlentities"
+					],
+					[
+						"preg",
+						"preg_replace"
+					],
+					[
+						"array_key",
+						"array_key_exists"
+					],
+					[
+						"is_n",
+						"is_numeric"
+					],
+					[
+						"is_a",
+						"is_array"
+					],
+					[
+						"ordered_",
+						"ordered_lib"
+					],
+					[
+						"typ",
+						"sTypeGraph  (variable)"
+					],
+					[
+						"ttr",
+						"transformCSVToArray  (function)"
+					],
+					[
+						"ordere",
+						"ordered_lib"
+					],
+					[
+						"getT",
+						"getTypeGraph"
+					],
+					[
+						"call",
+						"callback"
+					],
+					[
+						"min-",
+						"min-width"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"exi",
+						"existParam"
+					],
+					[
+						"n",
+						"nUser"
+					],
+					[
+						"str_re",
+						"str_replace"
+					],
+					[
+						"for",
+						"foreach"
+					],
+					[
+						"getPa",
+						"getParameter"
+					],
+					[
+						"getDate",
+						"getDateMedical"
+					],
+					[
+						"send",
+						"sendMailContact"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"oP",
+						"oPayment"
+					],
+					[
+						"nCateD",
+						"nCateDC"
+					],
+					[
+						"nCA",
+						"nCate2D"
+					],
+					[
+						"nCa",
+						"nCate4D"
+					],
+					[
+						"createLice",
+						"createLicenceUser"
+					],
+					[
+						"setT",
+						"setTypeLicence"
+					],
+					[
+						"nTypeLicA",
+						"nTypeLicAtt"
+					],
+					[
+						"nTypeLicM",
+						"nTypeLicMonJunior"
+					],
+					[
+						"text-",
+						"text-decoration"
+					],
+					[
+						"strto",
+						"strtotime"
+					],
+					[
+						"Yea",
+						"YearStart"
+					],
+					[
+						"Date",
+						"DateSaisie"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"mo",
+						"mobile"
+					],
+					[
+						"de",
+						"debug"
+					],
+					[
+						"re",
+						"refresh"
+					],
+					[
+						"padd",
+						"padding-right"
+					],
+					[
+						"tournoi",
+						"tournoi-online-3"
+					],
+					[
+						"getA",
+						"getAmountAvailable"
+					],
+					[
+						"tbl_",
+						"tbl_tournament_player"
+					],
+					[
+						"padding-",
+						"padding-bottom"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"tbl_credi",
+						"tbl_credit_move_profil"
+					],
+					[
+						"aVali",
+						"aValidatorPlayer"
+					],
+					[
+						"sf",
+						"sfGuardUser"
+					],
+					[
+						"dir",
+						"DIRECTORY_SEPARATOR"
+					],
+					[
+						"ob",
+						"object"
+					],
+					[
+						"psFil",
+						"psFileName"
+					],
+					[
+						"data",
+						"data-url"
+					],
+					[
+						"soc",
+						"societeId"
+					],
+					[
+						"oPor",
+						"oPortfolio"
+					],
+					[
+						"fun",
+						"function"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "atixnet/myways/apps/frontend/modules/deplacement/templates/indexSuccess.php",
+					"settings":
+					{
+						"buffer_size": 9901,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Searching 25 files for \"console.log\"\n\n/home/tgilbert/Projets/atixnet/myways/web/js/jquery-ui-1.8.16.custom.min.js:\n  487  minDate:null,maxDate:null,duration:\"fast\",beforeShowDay:null,beforeShow:null,onSelect:null,onChangeMonthYear:null,onClose:null,numberOfMonths:1,showCurrentAtPos:0,stepMonths:1,stepBigMonths:12,altField:\"\",altFormat:\"\",constrainInput:true,showButtonPanel:false,autoSize:false,disabled:false};d.extend(this._defaults,this.regional[\"\"]);this.dpDiv=N(d('<div id=\"'+this._mainDivId+'\" class=\"ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all\"></div>'))}function N(a){return a.bind(\"mouseout\",\n  488  function(b){b=d(b.target).closest(\"button, .ui-datepicker-prev, .ui-datepicker-next, .ui-datepicker-calendar td a\");b.length&&b.removeClass(\"ui-state-hover ui-datepicker-prev-hover ui-datepicker-next-hover\")}).bind(\"mouseover\",function(b){b=d(b.target).closest(\"button, .ui-datepicker-prev, .ui-datepicker-next, .ui-datepicker-calendar td a\");if(!(d.datepicker._isDisabledDatepicker(J.inline?a.parent()[0]:J.input[0])||!b.length)){b.parents(\".ui-datepicker-calendar\").find(\"a\").removeClass(\"ui-state-hover\");\n  489: b.addClass(\"ui-state-hover\");b.hasClass(\"ui-datepicker-prev\")&&b.addClass(\"ui-datepicker-prev-hover\");b.hasClass(\"ui-datepicker-next\")&&b.addClass(\"ui-datepicker-next-hover\")}})}function H(a,b){d.extend(a,b);for(var c in b)if(b[c]==null||b[c]==C)a[c]=b[c];return a}d.extend(d.ui,{datepicker:{version:\"1.8.16\"}});var B=(new Date).getTime(),J;d.extend(M.prototype,{markerClassName:\"hasDatepicker\",maxRows:4,log:function(){this.debug&&console.log.apply(\"\",arguments)},_widgetDatepicker:function(){return this.dpDiv},\n  490  setDefaults:function(a){H(this._defaults,a||{});return this},_attachDatepicker:function(a,b){var c=null;for(var e in this._defaults){var f=a.getAttribute(\"date:\"+e);if(f){c=c||{};try{c[e]=eval(f)}catch(h){c[e]=f}}}e=a.nodeName.toLowerCase();f=e==\"div\"||e==\"span\";if(!a.id){this.uuid+=1;a.id=\"dp\"+this.uuid}var i=this._newInst(d(a),f);i.settings=d.extend({},b||{},c||{});if(e==\"input\")this._connectDatepicker(a,i);else f&&this._inlineDatepicker(a,i)},_newInst:function(a,b){return{id:a[0].id.replace(/([^A-Za-z0-9_-])/g,\n  491  \"\\\\\\\\$1\"),input:a,selectedDay:0,selectedMonth:0,selectedYear:0,drawMonth:0,drawYear:0,inline:b,dpDiv:!b?this.dpDiv:N(d('<div class=\"'+this._inlineClass+' ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all\"></div>'))}},_connectDatepicker:function(a,b){var c=d(a);b.append=d([]);b.trigger=d([]);if(!c.hasClass(this.markerClassName)){this._attachments(c,b);c.addClass(this.markerClassName).keydown(this._doKeyDown).keypress(this._doKeyPress).keyup(this._doKeyUp).bind(\"setData.datepicker\",\n\n/home/tgilbert/Projets/atixnet/myways/web/js/jquery.contextMenu.js:\n  248                          // Note: jQuery captures and ignores errors from event handlers\n  249                          if (window.console) {\n  250:                             (console.error || console.log)(\"No items specified to show in contextMenu\");\n  251                          }\n  252                          \n\n/home/tgilbert/Projets/atixnet/myways/web/js/maps/edit/handler/Edit.Poly.js:\n  193          {\n  194          	if (layers.options.dashArray.id == idtrajet) {\n  195:         		//console.log(layers.editing);\n  196          		lastPoint = layers.editing._markers.length-1;\n  197          		markerTrajet = layers.editing._markers[lastPoint];\n\n3 matches across 3 files\n\n\nSearching 25 files for \"#context-menu\"\n\n/home/tgilbert/Projets/atixnet/myways/web/js/jquery.contextMenu.js:\n  229              if (!$this.hasClass('context-menu-disabled')) {\n  230                  // theoretically need to fire a show event at <menu>\n  231:                 // http://www.whatwg.org/specs/web-apps/current-work/multipage/interactive-elements.html#context-menus\n  232                  // var evt = jQuery.Event(\"show\", { data: data, pageX: e.pageX, pageY: e.pageY, relatedTarget: this });\n  233                  // e.data.$menu.trigger(evt);\n  ...\n  792  \n  793              // hide any open menus\n  794:             $('#context-menu-layer').trigger('mousedown');\n  795  \n  796              // backreference for callbacks\n  ...\n 1393                  initialized = false;\n 1394                  \n 1395:                 $('#context-menu-layer, .context-menu-list').remove();\n 1396              } else if (namespaces[o.selector]) {\n 1397                  $visibleMenu = $('.context-menu-list').filter(':visible');\n\n/home/tgilbert/Projets/atixnet/myways/web/js/maps/edit/handler/Edit.Poly.js:\n  386      _selectedMode: function (self) {\n  387  \n  388:         $('#context-menu li').each( function () {\n  389              $(this).unbind('click');\n  390              if ($(this).attr('id') == 'mode_edit_'+self._trajets.id_mode) {\n  ...\n  402                          if (mode.id == aElementId[2]) {\n  403                              self._changeColor(mode, self);\n  404:                             $('#context-menu').hide();\n  405                          }\n  406                      });\n  ...\n  436          var x = eOrigin.pageX;\n  437          var y = eOrigin.pageY;\n  438:         $('#context-menu').css({'top': y, 'left': x});\n  439:         $('#context-menu').show();\n  440      }\n  441  \n\n/home/tgilbert/Projets/atixnet/myways/web/js/maps/generate.layer.class.js:\n  162      //         id = trajet.options.dashArray.id;\n  163      //         if (idPolyline == id) {\n  164:     //             $('#context-menu li').each( function () {\n  165      //                 $(this).unbind('click');\n  166      //                 if ($(this).attr('id') == 'mode_edit_'+trajet.options.dashArray.id_mode) {\n  ...\n  178      //                             if (mode.id == aElementId[2]) {\n  179      //                                 self.changeColor(mode, trajet);\n  180:     //                                 $('#context-menu').hide();\n  181      //                             }\n  182      //                         });\n\n/home/tgilbert/Projets/atixnet/myways/web/js/maps/generate.layer.class.js.old:\n  162              id = trajet.options.dashArray.id;\n  163              if (idPolyline == id) {\n  164:                 $('#context-menu li').each( function () {\n  165                      $(this).unbind('click');\n  166                      if ($(this).attr('id') == 'mode_edit_'+trajet.options.dashArray.id_mode) {\n  ...\n  178                                  if (mode.id == aElementId[2]) {\n  179                                      self.changeColor(mode, trajet);\n  180:                                     $('#context-menu').hide();\n  181                                  }\n  182                              });\n  ...\n  286          var x = eOrigin.pageX;\n  287          var y = eOrigin.pageY;\n  288:         $('#context-menu').css({'top': y, 'left': x});\n  289:         $('#context-menu').show();\n  290      }\n  291  \n\n13 matches across 4 files\n",
+					"settings":
+					{
+						"buffer_size": 6939,
+						"line_ending": "Unix",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/home/tgilbert/osmold.xml",
+					"settings":
+					{
+						"buffer_size": 170859,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "atixnet/myways/apps/frontend/modules/deplacement/actions/actions.class.php",
+					"settings":
+					{
+						"buffer_size": 4675,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "atixnet/myways/web/js/maps/generate.layer.class.js",
+					"settings":
+					{
+						"buffer_size": 12139,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "atixnet/myways/apps/frontend/lib/deplacement.class.php",
+					"settings":
+					{
+						"buffer_size": 8355,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "atixnet/myways/web/css/main.css",
+					"settings":
+					{
+						"buffer_size": 3837,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/tgilbert/osm.xml",
+					"settings":
+					{
+						"buffer_size": 2075,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "atixnet/myways/web/js/maps/control.panel.class.js",
+					"settings":
+					{
+						"buffer_size": 1317,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "atixnet/myways/web/js/maps/edit/handler/Edit.Poly.js",
+					"settings":
+					{
+						"buffer_size": 18303,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "atixnet/myways/web/frontend_dev.php",
+					"settings":
+					{
+						"buffer_size": 607,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						":q",
+						"Set Syntax: jQuery (JavaScript)"
+					],
+					[
+						"colo",
+						"Color picker"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"svn",
+						"SVN: Log"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"upp",
+						"Convert Case: Upper Case"
+					],
+					[
+						"low",
+						"Convert Case: Lower Case"
+					],
+					[
+						"align",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"white",
+						"WordHighlight: Toggle Enabled"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"word",
+						"WordHighlight: Toggle Enabled"
+					],
+					[
+						"toggle",
+						"Word Wrap: Toggle"
+					],
+					[
+						"ctag",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"sni",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"repos",
+						"Package Control: Add Repository"
+					],
+					[
+						"Packa",
+						"Package Control: Add Repository"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					]
+				],
+				"width": 588.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/secur/actions/actions.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/secur/templates/_forgot_email.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/profile/actions/actions.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/profile/templates/editSuccess.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/profile/config/security.yml",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/profile/templates/indexSuccess.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/lib/form/editprofile.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/lib/myUser.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/config/routing.yml",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/usager/config/generator.yml",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/profile/templates/passwordSuccess.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/deplacement/config/security.yml",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/templates/layout.php",
+				"/home/tgilbert/Projets/atixnet/myways/lib/model/doctrine/Usager.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/lib/form/doctrine/UsagerForm.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/web/css/main.css",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/usager/actions/actions.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/web/css/admin.css",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/templates/_nav.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/deplacement/config/view.yml",
+				"/home/tgilbert/Projets/atixnet/myways/config/doctrine/myways.yml",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/config/view.yml",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/lib/form/registration.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/lib/form/doctrine/base/BaseUsagerForm.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/config/app.yml",
+				"/home/tgilbert/Projets/atixnet/myways/lib/form/doctrine/base/BaseUsagerDataForm.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/plugins/atixAdminThemePlugin/data/generator/sfDoctrineModule/atixTheme/template/templates/_assets.php",
+				"/home/tgilbert/Projets/atixnet/atixadminthemeplugin/data/generator/sfDoctrineModule/atixTheme/template/templates/_assets.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/i18n/sf_admin.fr.xml",
+				"/home/tgilbert/Projets/atixnet/myways/plugins/atixAdminThemePlugin/lib/generator/atixAdminThemeDoctrineGeneratorHelper.class.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/tab2bord/config/generator.yml",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/page_tab2bord/config/generator.yml",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/config/routing.yml",
+				"/home/tgilbert/Projets/ffst/lib/form/doctrine/tbl_licenceForm.class.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/config/settings.yml",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/config/settings.yml",
+				"/home/tgilbert/Projets/atixnet/myways/config/ProjectConfiguration.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/usager/config/security.yml",
+				"/home/tgilbert/Projets/atixnet/myways/patch.sh",
+				"/home/tgilbert/Projets/atixnet/myways/data/patch/admin.sql",
+				"/home/tgilbert/Projets/atixnet/myways/lib/model/doctrine/base/BaseUsager.class.php",
+				"/home/tgilbert/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/secur/templates/changepasswordSuccess.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/lib/form/changepassword.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/config/security.yml",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/deplacement/templates/indexSuccess.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/secur/templates/forgotpasswordSuccess.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/secur/templates/signinSuccess.php",
+				"/home/tgilbert/Projets/atixnet/myways/lib/model/doctrine/UsagerTable.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/lib/model/doctrine/base/BaseClient.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/lib/model/doctrine/ClientTable.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/secur/templates/_confirmation_mail.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/templates/_bodymailFooter.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/secur/templates/registrationSuccess.php",
+				"/home/tgilbert/Projets/atixnet/myways/web/js/maps/edit/handler/Edit.Poly.js",
+				"/home/tgilbert/Projets/atixnet/myways/web/js/maps/control.panel.class.js",
+				"/home/tgilbert/Projets/atixnet/myways/lib/vendor/symfony/lib/helper/DateHelper.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/lib/deplacement.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/web/js/maps/generate.layer.class.js",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/deplacement/actions/actions.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/config/factories.yml",
+				"/home/tgilbert/Projets/atixnet/myways/lib/vendor/symfony/lib/validator/sfValidatorChoice.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/lib/migration/doctrine/05_datebirth_integer.php",
+				"/home/tgilbert/Projets/atixnet/myways/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine.php",
+				"/home/tgilbert/Projets/atixnet/myways/config/doctrine/geode.yml",
+				"/home/tgilbert/Projets/backr/lib/model/doctrine/tbl_credit_moveTable.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/parseyml.php",
+				"/home/tgilbert/Projets/atixnet/myways/data/patch/autoincremente_geode.sql",
+				"/home/tgilbert/Projets/atixnet/myways/config/doctrine/schema.yml",
+				"/home/tgilbert/Projets/atixnet/myways/restore.sh",
+				"/home/tgilbert/Projets/atixnet/myways/config/databases.yml",
+				"/home/tgilbert/Projets/atixnet/myways/data/patch/account_activated.sql",
+				"/home/tgilbert/Projets/atixnet/myways/lib/model/doctrine/GeodeClientTable.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/secur/templates/confirmRegistrationSuccess.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/templates/_bodymailHeader.php",
+				"/home/tgilbert/Projets/atixnet/myways/lib/vendor/symfony/lib/helper/UrlHelper.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/lib/form/signinForm.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/secur/templates/activateAccountSuccess.php",
+				"/home/tgilbert/Projets/atixnet/myways/lib/vendor/symfony/lib/helper/TagHelper.php",
+				"/home/tgilbert/Projets/atixnet/myways/lib/vendor/symfony/lib/helper/HelperHelper.php",
+				"/home/tgilbert/Projets/atixnet/myways/lib/vendor/symfony/lib/widget/sfWidgetFormInputText.class.php",
+				"/home/tgilbert/Projets/law-airsoft/lib/form/inscription.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/secur/config/security.yml",
+				"/home/tgilbert/Projets/atixnet/myways/lib/vendor/symfony/lib/validator/sfValidatorSchemaCompare.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/plugins/sfCaptchaGDPlugin/modules/sfCaptchaGD/actions/actions.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/data/patch/color.sql",
+				"/home/tgilbert/Projets/atixnet/myways/data/patch/icone-activite.sql",
+				"/home/tgilbert/Projets/atixnet/myways/web/css/leaflet.css",
+				"/home/tgilbert/Projets/atixnet/Leaflet.Pancontrol/src/L.Control.Pan.js",
+				"/home/tgilbert/Projets/atixnet/Leaflet.draw/examples/edithandlers.html",
+				"/home/tgilbert/Projets/atixnet/bootstrap-contextmenu/demo/test.html",
+				"/home/tgilbert/Projets/atixnet/bootstrap-contextmenu/demo/demo.html",
+				"/home/tgilbert/Projets/atixnet/myways/web/css/jquery.contextMenu.css",
+				"/home/tgilbert/Projets/atixnet/jQuery-contextMenu/demo.html",
+				"/home/tgilbert/Projets/atixnet/myways/data/patch/icone.sql",
+				"/home/tgilbert/Projets/atixnet/myways/apps/frontend/modules/deplacement/templates/testSuccess.php",
+				"/home/tgilbert/Projets/atixnet/myways/lib/model/doctrine/Trajet.class.php",
+				"/home/tgilbert/Projets/atixnet/myways/web/js/bootstrap-dropdown.js",
+				"/home/tgilbert/Projets/ffst/config/doctrine/schema.yml",
+				"/home/tgilbert/Projets/atixnet/sgp/config/doctrine/schema.yml",
+				"/home/tgilbert/Projets/atixnet/sgp/plugins/sfDoctrineGuardPlugin/config/doctrine/schema.yml",
+				"/home/tgilbert/Projets/atixnet/portail_rh/config/databases.yml",
+				"/home/tgilbert/Projets/atixnet/portail_rh/config/doctrine/schema.yml",
+				"/home/tgilbert/Projets/atixnet/portail_rh/config/doctrine/conges.yml",
+				"/home/tgilbert/Projets/atixnet/portail_rh/config/doctrine/portail.yml",
+				"/home/tgilbert/Projets/atixnet/sgp/config/deploy.rb.dist",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/tableauSuccess.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/actions/actions.class.php",
+				"/home/tgilbert/Projets/atixnet/sgp/lib/helper/outils.class.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules/svg/templates/_tableau.php",
+				"/home/tgilbert/Projets/atixnet/sgp/apps/admin/lib/generateSvg.class.php",
+				"/home/tgilbert/Projets/atixnet/portailRhTestLdap/apps/frontend/config/security.yml",
+				"/home/tgilbert/Projets/atixnet/portailRhTestLdap/apps/frontend/lib/myUser.class.php",
+				"/home/tgilbert/Projets/atixnet/portailRhTestLdap/apps/frontend/config/app.yml",
+				"/home/tgilbert/Projets/atixnet/portailRhTestLdap/apps/frontend/config/settings.yml",
+				"/home/tgilbert/Projets/atixnet/portailRhTestLdap/config/ProjectConfiguration.class.php",
+				"/home/tgilbert/Projets/atixnet/portailRhTestLdap/config/LDAPAuth.yml",
+				"/home/tgilbert/Documents/ATIXNET/SGP-Tab2bord/Livrable/build/nettoyages.sh",
+				"/home/tgilbert/Documents/ATIXNET/SGP-Tab2bord/Livrable/build/test.sh",
+				"/home/tgilbert/Documents/ATIXNET/SGP-Tab2bord/Livrable/build/filemodif/nettoyage_script.php",
+				"/home/tgilbert/Projets/atixnet/sgp/config/deploy.rb",
+				"/home/tgilbert/Projets/ffst/apps/frontend/config/settings.yml",
+				"/home/tgilbert/Projets/atixnet/projetVide/config/databases.yml-dist",
+				"/home/tgilbert/Projets/sf_sandbox/config/databases.yml",
+				"/home/tgilbert/Projets/atixnet/projetVideSf1/.gitignore",
+				"/home/tgilbert/Projets/atixnet/portail_rh/.gitignore",
+				"/home/tgilbert/Projets/atixnet/projetVide/install.sh",
+				"/home/tgilbert/Projets/atixnet/portailRhTestLdap/config/databases.yml-dist"
+			],
+			"find":
+			{
+				"height": 87.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/home/tgilbert/Projets/atixnet/myways/web/js",
+					"/home/tgilbert/Projets/atixnet/myways",
+					"/home/tgilbert/Projets/atixnet/myways/plugins/atixAdminThemePlugin",
+					"/home/tgilbert/Projets/atixnet/myways/plugins/atixAdminThemePlugin/data/generator/sfDoctrineModule",
+					"/home/tgilbert/Projets/atixnet/myways/plugins/atixAdminThemePlugin/data/generator/sfDoctrineModule/atixTheme/template/templates",
+					"/home/tgilbert/Projets/atixnet/sgp/apps/admin/modules,*.yml",
+					"/home/tgilbert/Projets/atixnet/myways/lib/vendor",
+					"/home/tgilbert/Projets/backr/lib/model",
+					"/home/tgilbert/Projets/atixnet/myways",
+					"/home/tgilbert/Projets/atixnet/myways/web/js",
+					"",
+					"/home/tgilbert/Projets/sgp ",
+					"/home/tgilbert/Projets/ffst/apps ,*.php",
+					"*.php, *.js",
+					"*.php",
+					"*.yml",
+					"*.php",
+					"*.css",
+					"*.php",
+					"*.css",
+					"*.php",
+					"*.css",
+					"",
+					"/home/tgilbert/Projets/backr/apps/frontend",
+					"/home/tgilbert/Projets/backr/",
+					"/home/tgilbert/Projets/backr/lib/model/",
+					"/home/tgilbert/Projets/backr/apps/",
+					"/home/tgilbert/Projets/backr/apps/frontend/",
+					"/home/tgilbert/Projets/backr/",
+					"/home/tgilbert/Projets/hexagone-airsoft/apps",
+					"/home/tgilbert/Projets/backr/apps",
+					"/home/tgilbert/Projets/backr/lib/model",
+					"/home/tgilbert/Projets/backr/lib/filter",
+					"/home/tgilbert/Projets/backr/lib/form",
+					"/home/tgilbert/Projets/backr/lib",
+					"/home/tgilbert/Projets/backr/lib/form",
+					"*.css",
+					"*.yml",
+					"",
+					"/home/tgilbert/Projets/backr/apps/",
+					"/home/tgilbert/Projets/backr/apps/frontend",
+					"",
+					"-cache",
+					"",
+					"/home/tgilbert/Projets/backr/lib/vendor/symfony",
+					"",
+					"*.css",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"_fireEdit",
+					"datepoint",
+					"click",
+					"clik",
+					"click",
+					"_createMarker",
+					"_fireEdit",
+					"_createMiddleMarker",
+					"_onMarkerClick",
+					"_onMarkerRemove",
+					"_jointTrajetsPrevious",
+					"_jointTrajetsNext",
+					"_isFirst",
+					"modesJson",
+					"activite_icone_fin",
+					"modesJson",
+					"activitees",
+					"_openContextmenu",
+					"#context-menu",
+					"10px",
+					"self = this",
+					"idPolyline",
+					"SelectTr",
+					"console.log",
+					"context-menu-link",
+					"type",
+					"addLayerMarker",
+					"latlngs",
+					"images/marker",
+					"_isF",
+					"remove",
+					"_isFirst",
+					"_createMarker",
+					"context",
+					"_trajet",
+					"isPolylineOpacity",
+					"addPointTrajets",
+					"console",
+					"console.log",
+					"groupMarker",
+					"addLayerMarker",
+					"addPointTrajets",
+					"this.polyLine",
+					"getPolyline",
+					"dep_info_activite",
+					"position",
+					"removeLayerMarker",
+					"hideTrajets",
+					"groupTrajet",
+					"setStyle",
+					"addLayerMarker",
+					"redraw",
+					"contex",
+					"closeContextmenu",
+					"openContextmenu",
+					"regex",
+					"minor-roads-casing",
+					"casing",
+					"eb9799",
+					"c5c5c4",
+					"fff",
+					"roads-text-ref",
+					"boundary",
+					"road<",
+					"roads-text-ref-low-zoom",
+					"highway-junctions",
+					"area-text",
+					"landuse_overlay",
+					"turning_circle-fill",
+					"turning_circle-casing",
+					"directions",
+					"highway-area-casing",
+					"barriers_area",
+					"cliffs",
+					"theme_park",
+					"highway-area-fill",
+					"minor-roads-casing",
+					"minor-roads-fill",
+					"highway-area-fill",
+					"roads-text-name",
+					"minor-roads-casing",
+					"street",
+					">roads",
+					"water",
+					"&layer",
+					">highway",
+					">highway<",
+					"highway-area-fill",
+					"road",
+					"name=\"highway",
+					"StyleName>highway",
+					"layer-admin",
+					"font",
+					"fontset-settings",
+					"street",
+					"srs900913",
+					"road",
+					"modes",
+					"find",
+					"id_mode",
+					"</p>",
+					"<p>",
+					"confirm",
+					"48c5f3",
+					"birthdate",
+					"oClient",
+					"sendConfirmation",
+					"login",
+					"Envoyer",
+					"this",
+					"dep_info",
+					"activite_icone_fin",
+					"{\n",
+					"timeFin",
+					"format_date",
+					"array_unshift",
+					"sexe",
+					"birthday",
+					"date_medical",
+					"sexe",
+					"clickme",
+					"getTable",
+					"geode",
+					"select",
+					"notice",
+					"link_to",
+					"inscription",
+					"usager"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"</li>",
+					"<li>",
+					"/images",
+					";",
+					"",
+					"i",
+					"tbl_ligue",
+					"$this->pdf",
+					"$this->bClub",
+					"083a99",
+					"010066",
+					". ",
+					"images/chips",
+					"../images/chips/",
+					"stake",
+					"stak",
+					"backr",
+					"tournament/mincard",
+					"player/mincard",
+					"/images",
+					"/images/",
+					"\"/images/",
+					"\"",
+					"images/camera_skins.png",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "atixnet/myways/apps/frontend/modules/deplacement/templates/indexSuccess.php",
+							"settings":
+							{
+								"buffer_size": 9901,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4055,
+										4055
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1191.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"settings":
+							{
+								"buffer_size": 6939,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												1590,
+												1601
+											],
+											[
+												2987,
+												2998
+											],
+											[
+												3288,
+												3299
+											],
+											[
+												3838,
+												3851
+											],
+											[
+												4111,
+												4124
+											],
+											[
+												4313,
+												4326
+											],
+											[
+												4651,
+												4664
+											],
+											[
+												4990,
+												5003
+											],
+											[
+												5178,
+												5191
+											],
+											[
+												5240,
+												5253
+											],
+											[
+												5492,
+												5505
+											],
+											[
+												5898,
+												5911
+											],
+											[
+												6210,
+												6223
+											],
+											[
+												6601,
+												6614
+											],
+											[
+												6805,
+												6818
+											],
+											[
+												6867,
+												6880
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										5250,
+										5250
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"detect_indentation": false,
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"output_tag": 2,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"result_base_dir": "",
+									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 900.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/tgilbert/osmold.xml",
+							"settings":
+							{
+								"buffer_size": 170859,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										85873,
+										85873
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/XML/XML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1427.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "atixnet/myways/apps/frontend/modules/deplacement/actions/actions.class.php",
+							"settings":
+							{
+								"buffer_size": 4675,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										807,
+										807
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 702.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "atixnet/myways/web/js/maps/generate.layer.class.js",
+							"settings":
+							{
+								"buffer_size": 12139,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4575,
+										4575
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "atixnet/myways/apps/frontend/lib/deplacement.class.php",
+							"settings":
+							{
+								"buffer_size": 8355,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6042,
+										6042
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1134.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "atixnet/myways/web/css/main.css",
+							"settings":
+							{
+								"buffer_size": 3837,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3322,
+										3322
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4025.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/tgilbert/osm.xml",
+							"settings":
+							{
+								"buffer_size": 2075,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1470,
+										1470
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/XML/XML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 648.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "atixnet/myways/web/js/maps/control.panel.class.js",
+							"settings":
+							{
+								"buffer_size": 1317,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										899,
+										899
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 108.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "atixnet/myways/web/js/maps/edit/handler/Edit.Poly.js",
+							"settings":
+							{
+								"buffer_size": 18303,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11183,
+										11183
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 6231.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "atixnet/myways/web/frontend_dev.php",
+							"settings":
+							{
+								"buffer_size": 607,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										370,
+										370
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,1,0,0,0,713,217,1353,697,3200,1080",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"sfvalidatorchoice",
+						"myways/lib/vendor/symfony/lib/validator/sfValidatorChoice.class.php"
+					],
+					[
+						"doctrine",
+						"myways/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine.php"
+					],
+					[
+						"helper",
+						"lib/vendor/symfony/lib/helper/UrlHelper.php"
+					],
+					[
+						"sfvalidatorschemacompare",
+						"myways/lib/vendor/symfony/lib/validator/sfValidatorSchemaCompare.class.php"
+					],
+					[
+						"sfwidgetforminputtext",
+						"myways/lib/vendor/symfony/lib/widget/sfWidgetFormInputText.class.php"
+					],
+					[
+						"sfy",
+						"lib/vendor/symfony/lib/yaml/sfYaml.php"
+					],
+					[
+						"sfguardsecurityuser",
+						"sgp/plugins/sfDoctrineGuardPlugin/lib/user/sfGuardSecurityUser.class.php"
+					],
+					[
+						"exportlicence",
+						"ffst/apps/frontend/lib/tools/exportLicence.class.php"
+					],
+					[
+						"sfformdoctrine",
+						"ffst/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/form/sfFormDoctrine.class.php"
+					],
+					[
+						"baseformdoctrine",
+						"ffst/lib/form/doctrine/BaseFormDoctrine.class.php"
+					],
+					[
+						"sfmodelgeneratorconfiguration",
+						"ffst/lib/vendor/symfony/lib/generator/sfModelGeneratorConfiguration.class.php"
+					],
+					[
+						"licencegeneratorconfiguration",
+						"ffst/cache/frontend/dev/modules/autoLicence/lib/BaseLicenceGeneratorConfiguration.class.php"
+					],
+					[
+						"sfbasicsecurityuser",
+						"ffst/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php"
+					],
+					[
+						"sfsto",
+						"ffst/lib/vendor/symfony/lib/storage/sfStorage.class.php"
+					],
+					[
+						"sfsess",
+						"ffst/lib/vendor/symfony/lib/storage/sfSessionStorage.class.php"
+					],
+					[
+						"tcpdf",
+						"ffst/plugins/sfTCPDFPlugin/lib/tcpdf/tcpdf.php"
+					],
+					[
+						"sfwidgetformtextarea",
+						"ffst/lib/vendor/symfony/lib/widget/sfWidgetFormTextarea.class.php"
+					],
+					[
+						"sfvalidatorstring",
+						"ffst/lib/vendor/symfony/lib/validator/sfValidatorString.class.php"
+					],
+					[
+						"sfwidgetformdoctrinechoice",
+						"ffst/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/widget/sfWidgetFormDoctrineChoice.class.php"
+					],
+					[
+						"sfwidgetformjqueryautocompleter",
+						"ffst/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormJQueryAutocompleter.class.php"
+					],
+					[
+						"sfwidgetformdoctrinejqueryautocompleter",
+						"ffst/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormDoctrineJQueryAutocompleter.class.php"
+					],
+					[
+						"sft",
+						"ffst/plugins/sfTCPDFPlugin/lib/sfTCPDF.class.php"
+					],
+					[
+						"sfvalidatorin",
+						"ffst/lib/vendor/symfony/lib/validator/sfValidatorInteger.class.php"
+					],
+					[
+						"sfdoctrineunique",
+						"lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/validator/sfValidatorDoctrineUnique.class.php"
+					],
+					[
+						"pluginsfguarduser",
+						"ffst/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardUser.class.php"
+					],
+					[
+						"sfguarduser",
+						"ffst/lib/model/doctrine/sfDoctrineGuardPlugin/sfGuardUser.class.php"
+					],
+					[
+						"sfdoctrinerecord",
+						"ffst/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/record/sfDoctrineRecord.class.php"
+					],
+					[
+						"sfformobject",
+						"ffst/lib/vendor/symfony/lib/form/addon/sfFormObject.class.php"
+					],
+					[
+						"basetbl_ligueform",
+						"ffst/lib/form/doctrine/base/Basetbl_ligueForm.class.php"
+					],
+					[
+						"devoireleveform",
+						"abuledu-ent/apps/ent/lib/form/devoirEleveForm.class.php"
+					],
+					[
+						"basetbl_player_imagesform",
+						"lib/form/doctrine/base/Basetbl_player_imagesForm.class.php"
+					],
+					[
+						"basetbl_profilformfilter",
+						"lib/filter/doctrine/base/Basetbl_profilFormFilter.class.php"
+					],
+					[
+						"_edittour",
+						"backr/apps/frontend/modules/myaccount/templates/_editTournament.php"
+					],
+					[
+						"sfaction",
+						"backr/lib/vendor/symfony/lib/action/sfAction.class.php"
+					],
+					[
+						"sfactions",
+						"backr/lib/vendor/symfony/lib/action/sfActions.class.php"
+					],
+					[
+						"forward",
+						"backr/lib/vendor/symfony/lib/exception/sfForwardException.class.php"
+					],
+					[
+						"basetbl_tournament_playerformfilter",
+						"backr/lib/filter/doctrine/base/Basetbl_tournament_playerFormFilter.class.php"
+					],
+					[
+						"sfformfilterdoctrine",
+						"backr/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/form/sfFormFilterDoctrine.class.php"
+					],
+					[
+						"baseformfilterdoctrine",
+						"backr/lib/filter/doctrine/BaseFormFilterDoctrine.class.php"
+					],
+					[
+						"stakeplay",
+						"apps/frontend/modules/tournament/templates/_stakeplayer.php"
+					],
+					[
+						"sfform",
+						"backr/lib/vendor/symfony/lib/form/sfForm.class.php"
+					],
+					[
+						"schema",
+						"backr/plugins/sfDoctrineGuardPlugin/config/doctrine/schema.yml"
+					],
+					[
+						"myuser",
+						"apps/frontend/lib/myUser.class.php"
+					],
+					[
+						"stakepl",
+						"apps/frontend/modules/tournament/templates/_stakeplayer.php"
+					],
+					[
+						"myu",
+						"apps/frontend/lib/myUser.class.php"
+					],
+					[
+						"sfbrowserbase",
+						"lib/vendor/symfony/lib/util/sfBrowserBase.class.php"
+					],
+					[
+						"sfbrow",
+						"lib/vendor/symfony/lib/util/sfBrowser.class.php"
+					],
+					[
+						"sfwidgetformchoice",
+						"backr/lib/vendor/symfony/lib/widget/sfWidgetFormChoice.class.php"
+					],
+					[
+						"sfvalidatedfile",
+						"backr/lib/vendor/symfony/lib/validator/sfValidatedFile.class.php"
+					],
+					[
+						"sfwidgetformi18ndate",
+						"backr/lib/vendor/symfony/lib/widget/i18n/sfWidgetFormI18nDate.class.php"
+					],
+					[
+						"sfwidgetformi18ndatetime",
+						"backr/lib/vendor/symfony/lib/widget/i18n/sfWidgetFormI18nDateTime.class.php"
+					],
+					[
+						"sfimage",
+						"mesphotos-sans-bouger/plugins/sfMultipleAjaxUploadGalleryPlugin/lib/sfImage.class.php"
+					],
+					[
+						"layout",
+						"backr/apps/backend/templates/layout.php"
+					],
+					[
+						"layou",
+						"backr/apps/frontend/templates/layout.php"
+					],
+					[
+						"sftwigextension",
+						"002671101/plugins/sfTwigPlugin/lib/vendor/Twig/doc/extensions.rst"
+					],
+					[
+						"settemplate",
+						"backr/plugins/sfTwigPlugin/lib/vendor/Twig/doc/templates.rst"
+					],
+					[
+						"startup",
+						"website/var/config/startup.php"
+					],
+					[
+						"mygene",
+						"lib/myGenerique.class.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"/home/tgilbert/Projets/mydev.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 414.0,
 			"status_bar_visible": true,
-			"window_id": 92,
-			"workspace_name": "/home/tgilbert/Projets/sgp.sublime-project"
+			"window_id": 105,
+			"workspace_name": "/home/tgilbert/Projets/myways.sublime-project"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/home/tgilbert/Projets/myways.sublime-project",
+			"/home/tgilbert/Projets/mydev.sublime-project",
+			"/home/tgilbert/Projets/law-airsoft.sublime-project",
+			"/home/tgilbert/Projets/myatixnet.sublime-project",
 			"/home/tgilbert/Projets/sgp.sublime-project",
 			"/home/tgilbert/Projets/ffst.sublime-project",
 			"/home/tgilbert/Projets/ffst/config/sgp.sublime-project",
@@ -2707,7 +3557,6 @@
 			"/home/tgilbert/Projets/backr.sublime-project",
 			"/home/tgilbert/Projets/abuledu-ent.sublime-project",
 			"/home/tgilbert/Projets/mobilec&t.sublime-project",
-			"/home/tgilbert/Projets/law-airsoft.sublime-project",
 			"/home/tgilbert/Projets/noname-airsoft.sublime-project",
 			"/home/tgilbert/Projets/tgprojets-mobile.sublime-project"
 		]
